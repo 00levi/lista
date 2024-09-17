@@ -1,0 +1,31 @@
+{
+    "movies": [
+        {
+            "title": "nickelodeon",
+            "image": "https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png",
+            "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=nick-op2"
+        },
+        {
+            "title": "Película 2",
+            "image": "https://example.com/imagen2.jpg",
+            "iframe": "https://example.com/iframe2"
+        }
+    ],
+    "series": [
+        {
+            "title": "Serie 1",
+            "episodes": [
+                {
+                    "episodeTitle": "Capítulo 1",
+                    "image": "https://example.com/serie1-ep1.jpg",
+                    "iframe": "https://example.com/serie1-ep1"
+                },
+                {
+                    "episodeTitle": "Capítulo 2",
+                    "image": "https://example.com/serie1-ep2.jpg",
+                    "iframe": "https://example.com/serie1-ep2"
+                }
+            ]
+        }
+    ]
+}
