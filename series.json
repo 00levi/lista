@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Serie 1",
+        "image": "https://1000marcas.net/wp-content/uploads/2022/10/One-Piece-Logo.png",
+        "episodes": [
+            {
+                "episodeTitle": "Capítulo 1",
+                "image": "https://1000marcas.net/wp-content/uploads/2022/10/One-Piece-Logo.png",
+                "iframe": "https://playerwish.com/e/lwdx8srj9egw"
+            },
+            {
+                "episodeTitle": "Capítulo 2",
+                "image": "https://1000marcas.net/wp-content/uploads/2022/10/One-Piece-Logo.png",
+                "iframe": "https://example.com/serie1-ep2"
+            }
+        ]
+    },
+    {
+        "title": "Serie 2",
+        "image": "https://img.asmedia.epimg.net/resizer/v2/3NSUHAFMPJNIHEDWUPA5POME3Y.jpg?auth=8af9d04a73bc2a9576334971e3ef016df4a61a232dd54799178ba17e9117511a&width=1288&height=725&smart=true",
+        "episodes": [
+            {
+                "episodeTitle": "Capítulo 1",
+                "image": "https://img.asmedia.epimg.net/resizer/v2/3NSUHAFMPJNIHEDWUPA5POME3Y.jpg?auth=8af9d04a73bc2a9576334971e3ef016df4a61a232dd54799178ba17e9117511a&width=1288&height=725&smart=true",
+                "iframe": "https://playerwish.com/e/lwdx8srj9egw"
+            }
+        ]
+    }
+]
