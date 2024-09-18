@@ -5,8 +5,33 @@
         "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=nick-op2"
     },
     {
-        "title": "Película 2",
-        "image": "https://example.com/imagen2.jpg",
-        "iframe": "https://example.com/iframe2"
+        "title": "Disney",
+        "image": "https://brandemia.org/sites/default/files/inline/images/01-disney.jpg",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=disney-op2"
+    },
+    {
+        "title": "Cartoon Network",
+        "image": "https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=cartoon-op2"
+    },
+    {
+        "title": "warner",
+        "image": "https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Log%D0%BE.png",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=warner-op2"
+    },
+    {
+        "title": "History",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=history-op2"
+    },
+    {
+        "title": "natgeo",
+        "image": "https://urbancomunicacion.com/wp-content/uploads/2020/06/Historia-detr%C3%A1s-del-logo-de-National-Geographic.png",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=natgeo-op2"
+    },
+    {
+        "title": "TN",
+        "image": "https://play-lh.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc=w480-h960",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=tn"
     }
 ]
