@@ -33,5 +33,50 @@
         "title": "TN",
         "image": "https://play-lh.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc=w480-h960",
         "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=tn"
+    },
+    {
+        "title": "Cronica",
+        "image": "https://www.cronica.com.ar/img/2022/08/06/crxnica_crop1659806205713.jpg?__scale=w:1200,h:675,t:2,p:6,fpx:350,fpy:438",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=cronica"
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
     }
 ]
