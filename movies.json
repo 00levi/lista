@@ -90,29 +90,44 @@
         "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=espn6-op2"
     },
     {
-        "title": "",
-        "image": "",
-        "iframe": ""
+        "title": "telefe",
+        "image": "https://www.televisionlibrehd.net/images/telefe.png?",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=telefe-op3"
     },
     {
-        "title": "",
-        "image": "",
-        "iframe": ""
+        "title": "eltrece",
+        "image": "https://www.televisionlibrehd.net/images/eltrece.png?",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=eltrece"
     },
     {
-        "title": "",
-        "image": "",
-        "iframe": ""
+        "title": "TYC SPORTS",
+        "image": "https://www.televisionlibrehd.net/images/tyc.png??",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=tyc-mx"
     },
     {
-        "title": "",
-        "image": "",
-        "iframe": ""
+        "title": "TNT SPORTS",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&s",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=tnt-op2"
     },
     {
-        "title": "",
-        "image": "",
-        "iframe": ""
+        "title": "cinecanal",
+        "image": "https://www.televisionlibrehd.net/images/cinecanal.png??",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=cinecanal-op2"
+    },
+    {
+        "title": "space",
+        "image": "https://www.televisionlibrehd.net/images/space.png??",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=space-op2"
+    },
+    {
+        "title": "dsports",
+        "image": "https://www.televisionlibrehd.net/images/dsports.png??",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=dsports-pe"
+    },
+    {
+        "title": "nueve",
+        "image": "https://www.televisionlibrehd.net/images/elnueve.png?",
+        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=nueve"
     },
     {
         "title": "",
