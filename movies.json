@@ -121,8 +121,8 @@
     },
     {
         "title": "cinecanal",
-        "image": "https://www.televisionlibrehd.net/images/cinecanal.png??",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/cinecanal.html"
+        "image": "https://www.cablevisionhd.com/imge/cinecanal.png",
+        "iframe": "https://www.enlatele.tv/player/cv2.php?get=Q2luZWNhbmFsSEQ=&lang=1"
     },
     {
         "title": "space",
@@ -143,6 +143,11 @@
         "title": "dragonballsuper",
         "image": "https://www.cablevisionhd.com/imge/dragonballsuper.png",
         "iframe": "https://embed.sdfgnksbounce.com/embed2/dragonballsuper.html"
+    },
+    {
+        "title": "",
+        "image": "",
+        "iframe": ""
     },
     {
         "title": "",
