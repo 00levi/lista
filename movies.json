@@ -7,27 +7,27 @@
     {
         "title": "Disney",
         "image": "https://brandemia.org/sites/default/files/inline/images/01-disney.jpg",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=disney-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/disneychannel.html"
     },
     {
         "title": "Cartoon Network",
         "image": "https://1000marcas.net/wp-content/uploads/2020/03/logo-Cartoon-Network.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=cartoon-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/cartoonnetwork.html"
     },
     {
         "title": "warner",
         "image": "https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Log%D0%BE.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=warner-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/warnerchannel.html"
     },
     {
         "title": "History",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=history-op2"
+        "image": "https://www.cablevisionhd.com/imge/history.png",
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/history.html"
     },
     {
         "title": "natgeo",
         "image": "https://urbancomunicacion.com/wp-content/uploads/2020/06/Historia-detr%C3%A1s-del-logo-de-National-Geographic.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=natgeo-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/natgeo.html"
     },
     {
         "title": "TN",
@@ -42,7 +42,7 @@
     {
         "title": "history2",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=history2-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/history2.html"
     },
     {
         "title": "axn",
@@ -52,62 +52,72 @@
     {
         "title": "foxsports",
         "image": "https://banner2.cleanpng.com/20180511/dqe/kisspng-fox-sports-networks-fox-sports-west-and-prime-tick-5af5bd40cc1e44.2748597915260542088361.jpg",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=foxsports-op2"
-    },
-    {
-        "title": "goldenplus",
-        "image": "https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=goldenplus"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/foxsports.html"
     },
     {
         "title": "foxsports2",
         "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=foxsports2-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/foxsports2.html"
     },
     {
         "title": "foxsports3",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=foxsports3-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/foxsports3.html"
     },
     {
         "title": "espn",
+        "image": "https://www.cablevisionhd.com/imge/espn.png",
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn.html"
+    },
+    {
+        "title": "espn2",
+        "image": "https://www.cablevisionhd.com/imge/espn2.png",
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn.html"
+    },
+    {
+        "title": "espn3",
         "image": "https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photography-thumbnail.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=espn-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn3.html"
     },
     {
         "title": "espn4",
         "image": "https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=espn4-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn4.html"
     },
     {
         "title": "espn5",
         "image": "https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=espn5-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn5.html"
     },
     {
         "title": "espn6",
         "image": "https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=espn6-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn6.html"
+    },
+    {
+        "title": "espn7",
+        "image": "https://www.cablevisionhd.com/imge/espn7.png",
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn7.html"
     },
     {
         "title": "telefe",
         "image": "https://www.televisionlibrehd.net/images/telefe.png?",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=telefe-op3"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/telefe.html"
     },
     {
         "title": "eltrece",
         "image": "https://www.televisionlibrehd.net/images/eltrece.png?",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=eltrece"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/eltrece.html"
     },
     {
         "title": "TYC SPORTS",
         "image": "https://www.televisionlibrehd.net/images/tyc.png??",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=tyc-mx"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/tycsports.html"
     },
     {
         "title": "TNT SPORTS",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_nzGStv6nX6FuEt6h62fcVuKQnsMXNDidA&s",
-        "iframe": "https://www.televisionlibrehd.net/en-vivo/player/embed.php?r=tnt-op2"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/tntsports.html"
     },
     {
         "title": "cinecanal",
