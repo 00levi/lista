@@ -1,0 +1,14 @@
+{
+  "action": {
+    "play": false,
+    "type": null,          // Puede ser "movie" o "episode"
+    "seriesId": null,      // ID de la serie, si es un episodio
+    "episodeId": null,     // ID del episodio, si es un episodio
+    "movieId": null        // ID de la película, si es una película
+  },
+  "content": {
+    "title": null,
+    "image": null,
+    "iframe": null
+  }
+}
