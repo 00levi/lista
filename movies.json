@@ -147,13 +147,15 @@
         "id": 24, 
         "title": "TNT SPORTS 2",
         "image": "https://www.cablevisionhd.com/imge/tntsports.png",
-        "iframe": "https://la10hd.com/vivo/canales.php?stream=tntsports"
+        "iframe": "https://la10hd.com/vivo/canales.php?stream=tntsports",
+        "play": true
     },
     {
         "id": 25, 
         "title": "cinecanal",
         "image": "https://www.cablevisionhd.com/imge/cinecanal.png",
-        "iframe": "https://teve3.mitele.uno/cv2.php?get=Q2luZWNhbmFsSEQ=&lang=1"
+        "iframe": "https://teve3.mitele.uno/cv2.php?get=Q2luZWNhbmFsSEQ=&lang=1",
+        "play": true
     },
     {
         "id": 26, 
