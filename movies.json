@@ -199,7 +199,7 @@
         "id": 28, 
         "title": "dragonballsuper",
         "image": "https://www.cablevisionhd.com/imge/dragonballsuper.png",
-        "iframe": "https://live.sdfgnksbounce.com/latam2.php?id=191_#",
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/dragonballsuper.html",
         "play": false
     },
     {
@@ -311,14 +311,14 @@
         "id": 44, 
         "title": "studiouniversal",
         "image": "https://www.cablevisionhd.com/imge/studiouniversal.png",
-        "iframe": "https://live.sdfgnksbounce.com/latam2.php?id=80_#",
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/studiouniversal.html",
         "play": false
     },
     {
         "id": 46, 
         "title": "TNT SPORTS",
         "image": "https://www.cablevisionhd.com/imge/tntsports.png",
-        "iframe": "https://live.sdfgnksbounce.com/latam.php?id=9_#",
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/tntsports.html",
         "play": false
     },
 
