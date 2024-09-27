@@ -82,13 +82,6 @@
         "image": "https://www.cablevisionhd.com/imge/tycsports.png",
         "iframe": "https://embed.sdfgnksbounce.com/embed2/tycsports.html",
         "play": false
-    },
-    {
-        "id": 46, 
-        "title": "TNT SPORTS",
-        "image": "https://www.cablevisionhd.com/imge/tntsports.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/tntsports.html",
-        "play": false
     },    
     {
         "id": 12, 
@@ -322,13 +315,13 @@
 
     
     {
-        "id": 47, 
+        "id": 46, 
         "title": "",
         "image": "",
         "iframe": ""
     },
     {
-        "id": 48, 
+        "id": 47, 
         "title": "",
         "image": "",
         "iframe": ""
