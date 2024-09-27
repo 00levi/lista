@@ -199,7 +199,7 @@
         "id": 28, 
         "title": "dragonballsuper",
         "image": "https://www.cablevisionhd.com/imge/dragonballsuper.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/dragonballsuper.html",
+        "iframe": "https://live.sdfgnksbounce.com/latam2.php?id=191_#",
         "play": false
     },
     {
@@ -255,55 +255,64 @@
         "id": 36, 
         "title": "starchannel",
         "image": "https://www.cablevisionhd.com/imge/starchannel.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/starchannel.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/starchannel.html",
+        "play": false
     },
     {
         "id": 37, 
         "title": "tnt",
         "image": "https://www.cablevisionhd.com/imge/tnt.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/tnt.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/tnt.html",
+        "play": false
     },
     {
         "id": 38, 
         "title": "tntseries",
         "image": "https://www.cablevisionhd.com/imge/tntseries.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/tntseries.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/tntseries.html",
+        "play": false
     },
     {
         "id": 39, 
         "title": "universalchannel",
         "image": "https://www.cablevisionhd.com/imge/universalchannel.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/universalchannel.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/universalchannel.html",
+        "play": false
     }, 
     {
         "id": 40, 
         "title": "cinemax",
         "image": "https://www.cablevisionhd.com/imge/cinemax.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/cinemax.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/cinemax.html",
+        "play": false
     },
     {
         "id": 41, 
         "title": "syfy",
         "image": "https://www.cablevisionhd.com/imge/syfy.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/syfy.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/syfy.html",
+        "play": false
     },
     {
         "id": 42, 
         "title": "fx",
         "image": "https://www.cablevisionhd.com/imge/fx.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/fx.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/fx.html",
+        "play": false
     },
     {
         "id": 43, 
         "title": "amc",
         "image": "https://www.cablevisionhd.com/imge/amc.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/amc.html"
+        "iframe": "https://embed.sdfgnksbounce.com/embed2/amc.html",
+        "play": false
     },
      {
         "id": 44, 
         "title": "studiouniversal",
         "image": "https://www.cablevisionhd.com/imge/studiouniversal.png",
-        "iframe": "https://live.sdfgnksbounce.com/latam2.php?id=80_#"
+        "iframe": "https://live.sdfgnksbounce.com/latam2.php?id=80_#",
+        "play": false
     },
     {
         "id": 46, 
