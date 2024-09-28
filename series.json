@@ -518,7 +518,7 @@
                 "iframe": "https://filemoon-nv2xl8an.xyz/gfg/l8ddcq5k2zhv?referer=multiplayer.streamhj.top",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 2,
                 "episodeTitle": "Capítulo 3",
                 "image": "https://www.henaojara.com/wp-content/uploads/2024/01/Solo_Leveling_Latino_HD-185x278.jpg",
@@ -532,7 +532,7 @@
                 "iframe": "https://filemoon-nv2xl8an.xyz/gfg/sgzlw27zjarr?referer=multiplayer.streamhj.top",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 4,
                 "episodeTitle": "Capítulo 5",
                 "image": "https://www.henaojara.com/wp-content/uploads/2024/01/Solo_Leveling_Latino_HD-185x278.jpg",
@@ -546,7 +546,7 @@
                 "iframe": "https://filemoon-nv2xl8an.xyz/gfg/u7qcqsb4bigy?referer=multiplayer.streamhj.top",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 6,
                 "episodeTitle": "Capítulo 7",
                 "image": "https://www.henaojara.com/wp-content/uploads/2024/01/Solo_Leveling_Latino_HD-185x278.jpg",
@@ -610,7 +610,7 @@
                 "iframe": "https://filemoon.sx/e/jn3urlm3qawt",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 2,
                 "episodeTitle": "Capítulo 3",
                 "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
@@ -624,7 +624,7 @@
                 "iframe": "https://filemoon.sx/e/twah6bdaprrj",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 4,
                 "episodeTitle": "Capítulo 5",
                 "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
@@ -638,7 +638,7 @@
                 "iframe": "https://filemoon.sx/e/kd3hqjpdha8d",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 6,
                 "episodeTitle": "Capítulo 7",
                 "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
@@ -683,7 +683,7 @@
         ]
     },
     { 
-        "id": 3,
+        "id": 4,
         "title": "Mushoku Tensei: Isekai Ittara Honki Dasu español Latino",
         "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
         "play": false,
@@ -702,7 +702,7 @@
                 "iframe": "https://www.burstcloud.co/embed/29d86742d7544c365406427d78ebf62c4632d669e3ba99d2d5e7cd736931bab8/MushokuTensei-02.lat.AnimeYT.es.mp4",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 2,
                 "episodeTitle": "Capítulo 3",
                 "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
@@ -716,7 +716,7 @@
                 "iframe": "https://www.burstcloud.co/embed/f552349c73bdd926614fbb3aceaa3d5e6fececeef30224fd46da9722602afcaf/MushokuTensei-04.lat.AnimeYT.es.mp4",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 4,
                 "episodeTitle": "Capítulo 5",
                 "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
@@ -730,7 +730,7 @@
                 "iframe": "https://www.burstcloud.co/embed/9ec22c68b6b880dd101130fd4c3e0d6c9e00cbc7fb8eb3ecfb9db84c9a668e60/MushokuTensei-06.lat.AnimeYT.es.mp4",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 6,
                 "episodeTitle": "Capítulo 7",
                 "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
@@ -772,11 +772,87 @@
                 "iframe": "https://www.burstcloud.co/embed/afef2fe01899c58f7d017d3f27967ae48b7d4bc01dba97b24fd3735372e00f15/Mushoku-12.lat.AnimeYT.es.mp4",
                 "play": true 
             },
+            {
+               "id": 12,
+                "episodeTitle": "Capítulo 13",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/d73c067aec414f216bd604c76887d035f247951ed85d3aa01242e881b81eb566/Mushoku-13.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 13,
+                "episodeTitle": "Capítulo 14",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/ef6bf964e1ccfcc95f77c465d2884ac525d338181837a5a43e27ca0f339e0d29/Mushoku-14.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 14,
+                "episodeTitle": "Capítulo 15",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/84ac40424f28de70daff9b19c9b4cf65f760308f38a8f04360d13f1840019538/Mushoku-15.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 15,
+                "episodeTitle": "Capítulo 16",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/a2cbf0a61754babf9b39438547c462cabaf3a5d473194e50b9e75a0100dc7127/Mushoku-16.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 16,
+                "episodeTitle": "Capítulo 17",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/03d22f525f641df9b07d9c054d5304c1544a58672657a8af0ac72536e9882501/Mushoku-17.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 17,
+                "episodeTitle": "Capítulo 18",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/0f8da47cbb8f75a4e762f02b3025e9c3fed9fe96f1582330856fbac65a8d4a43/Mushoku-18.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 18,
+                "episodeTitle": "Capítulo 19",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/3f46785a1e1d019a2ab288d17255895b63f5a503ce3640e741d638e0a90aba02/Mushoku-19.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 19,
+                "episodeTitle": "Capítulo 20",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/a0fd70130f7dd8c5601130d8e2d96216ac39d6b40479f34eb8b8530029867667/Mushoku-20.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 20,
+                "episodeTitle": "Capítulo 21",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/e1cd173169b6978b065aba851228894a58db6ba3f769f8e1ee336c1c15723943/Mushoku-21.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 21,
+                "episodeTitle": "Capítulo 22",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/632e9a3cef4e7784a48dc4bccd10a1abba26db43876de787b5942c9ba1b93d56/Mushoku-22.lat.AnimeYT.es.mp4",
+                "play": true 
+            },
+            {
+               "id": 22,
+                "episodeTitle": "Capítulo 23",
+                "image": "https://www1.otakustv.com/storage/videos/5fe0e9f79d783.jpg",
+                "iframe": "https://www.burstcloud.co/embed/28afd13972e1301c09ed66ec2e3a1c2ecf070f929e4f837b3dd6e2779620d366/Mushoku-23.FINAL.lat.AnimeYT.es%20-%20copia.mp4",
+                "play": true 
+            },
         ]
     },
-       ,
     { 
-        "id": 4,
+        "id": 5,
         "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Parte 2",
         "image": "",
         "play": false,
@@ -795,7 +871,7 @@
                 "iframe": "",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 2,
                 "episodeTitle": "Capítulo 3",
                 "image": "",
@@ -809,7 +885,7 @@
                 "iframe": "",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 4,
                 "episodeTitle": "Capítulo 5",
                 "image": "",
@@ -823,7 +899,7 @@
                 "iframe": "",
                 "play": true 
             },
-                        { 
+            { 
                 "id": 6,
                 "episodeTitle": "Capítulo 7",
                 "image": "",
