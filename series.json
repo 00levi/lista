@@ -854,6 +854,182 @@
     { 
         "id": 5,
         "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Parte 2",
+        "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+        "play": false,
+        "episodes": [
+            { 
+                "id": 0,
+                "episodeTitle": "Capítulo 1",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "https://filelions.top/v/wja0nq9s6fz4",
+                "play": true
+            },
+            {
+               "id": 1,
+                "episodeTitle": "Capítulo 2",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 2,
+                "episodeTitle": "Capítulo 3",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 3,
+                "episodeTitle": "Capítulo 4",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 4,
+                "episodeTitle": "Capítulo 5",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 5,
+                "episodeTitle": "Capítulo 6",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 6,
+                "episodeTitle": "Capítulo 7",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 7,
+                "episodeTitle": "Capítulo 8",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 8,
+                "episodeTitle": "Capítulo 9",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 9,
+                "episodeTitle": "Capítulo 10",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 10,
+                "episodeTitle": "Capítulo 11",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 11,
+                "episodeTitle": "Capítulo 12",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 12,
+                "episodeTitle": "Capítulo 13",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 13,
+                "episodeTitle": "Capítulo 14",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 14,
+                "episodeTitle": "Capítulo 15",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 15,
+                "episodeTitle": "Capítulo 16",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 16,
+                "episodeTitle": "Capítulo 17",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 17,
+                "episodeTitle": "Capítulo 18",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 18,
+                "episodeTitle": "Capítulo 19",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 19,
+                "episodeTitle": "Capítulo 19",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 20,
+                "episodeTitle": "Capítulo 20",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 21,
+                "episodeTitle": "Capítulo 21",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            },
+            { 
+                "id": 22,
+                "episodeTitle": "Capítulo 22",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true
+            },
+            {
+               "id": 23,
+                "episodeTitle": "Capítulo 23",
+                "image": "https://vvv.animeyt.one/cdn/img/anime/mushoku-tensei-temporada-2-audio-latino.webp",
+                "iframe": "",
+                "play": true 
+            }
+        ]
+    },
+        { 
+        "id": 6,
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Parte 2",
         "image": "",
         "play": false,
         "episodes": [
