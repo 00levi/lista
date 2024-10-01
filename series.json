@@ -495,6 +495,27 @@
                 "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
                 "iframe": "https://filemoon.sx/e/ehr4646w5479/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_09.mp4",
                 "play": true
+            },
+            { 
+                "id": 9,
+                "episodeTitle": "Capítulo 10",
+                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
+                "iframe": "https://filemoon-2ddx0brg.xyz/e/imbh3rga8mza?referer=saidochesto.top",
+                "play": true
+            },
+            { 
+                "id": 10,
+                "episodeTitle": "Capítulo 11",
+                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
+                "iframe": "",
+                "play": true
+            },
+            { 
+                "id": 11,
+                "episodeTitle": "Capítulo 12",
+                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
+                "iframe": "",
+                "play": true
             }
         ]
     },
@@ -1036,8 +1057,39 @@
     },
     { 
         "id": 6,
-        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Parte 2",
-        "image": false,
+        "title": "No Game No Life: Zero Pelicula",
+        "image": "https://dw-anime.net/wp-content/uploads/2018/08/NogameLifelatam.jpg",
+        "play": true,
+        "episodes": [
+            { 
+                "id": 0,
+                "episodeTitle": "No Game No Life: Zero Pelicula",
+                "image": "https://dw-anime.net/wp-content/uploads/2018/08/NogameLifelatam.jpg",
+                "iframe": "https://filemoon.sx/e/2hzhgnim27os",
+                "play": true
+            }
+        ]
+    },
+    { 
+        "id": 7,
+        "title": "Los increibles 2",
+        "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/313EC7B86774D7DC201FC2010AC5433871FB66BADF5596B0E60ECC9A2B5F9C85/scale?width=1200&aspectRatio=1.78&format=webp",
+        "play": true,
+        "episodes": [
+            { 
+                "id": 0,
+                "episodeTitle": "Los increibles 2",
+                "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/313EC7B86774D7DC201FC2010AC5433871FB66BADF5596B0E60ECC9A2B5F9C85/scale?width=1200&aspectRatio=1.78&format=webp",
+                "iframe": "https://filemoon.sx/e/yok611sh6xs8/107236--d9ce323e-b17c-4652-9e78-11e0264b25af--BK--vgmz--2057621-filemoon.mp4",
+                "play": true
+            }
+        ]
+    },
+    { 
+        "id": 8,
+        "title": "",
+        "image": "",
+        "play": true,
         "episodes": [
             { 
                 "id": 0,
