@@ -85,7 +85,7 @@
     },    
     {
         "id": 12, 
-        "title": "TNT SPORTS 2",
+        "title": "TNT SPORTS",
         "image": "https://www.cablevisionhd.com/imge/tntsports.png",
         "iframe": "https://la10hd.com/vivo/canales.php?stream=tntsports",
         "play": true
@@ -316,9 +316,9 @@
     },
     {
         "id": 45, 
-        "title": "",
-        "image": "",
-        "iframe": "",
+        "title": "TNT SPORTS",
+        "image": "https://www.cablevisionhd.com/imge/tntsports.png",
+        "iframe": "https://a3.115tv.site/cvattde.html?get=VE5UX1Nwb3J0c19IRA",
         "play": false
     }
 ]
