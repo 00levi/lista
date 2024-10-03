@@ -1293,63 +1293,63 @@
                 "episodeTitle": "Capítulo 2",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia601502.us.archive.org/23/items/Cyb01latf1dsf56sds5161df61sd6fdsf/CyberP-01.lat.AnimeYT.es.mp4",
-                "play": true 
+                "play": false 
             },
             { 
                 "id": 2,
                 "episodeTitle": "Capítulo 3",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia801507.us.archive.org/2/items/Cyb02latf1ds5f3ds16saf1f/Cyb02latf1ds5f3ds16saf1f.mp4",
-                "play": true
+                "play": false
             },
             {
                "id": 3,
                 "episodeTitle": "Capítulo 4",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://vvv.animeyt.one/stream.php?id=7903&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbnWFxiB9aLj0+O403ZsCkvh7fkvc0uLhFYnHp4KrP1wrxiU5w8fL4s4j/ivOtP32eAgiZoE97Bly2LGJYY2kcLXdIAbGd1GMH9ORrezmX2jaWsYh/YrALC2hfK3OCb78E332EByJUmH6kbPnmivjx64dcG9Mp1Z9oDCQOkpGUlxmcLILn+EOIuWWzs3iYPD1c0cN/mLQlpyazFn9NrXU+ncwKwtkNzu6Z1WPK",
-                "play": true 
+                "play": false 
             },
             { 
                 "id": 4,
                 "episodeTitle": "Capítulo 5",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia801508.us.archive.org/29/items/Cyb5f1dsf561sda6f5ads156f/Cyb5f1dsf561sda6f5ads156f.mp4",
-                "play": true
+                "play": false
             },
             {
                "id": 5,
                 "episodeTitle": "Capítulo 6",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia801503.us.archive.org/7/items/Cybr6fds1fa5dsf1ads6f5dsf1a/Cybr6fds1fa5dsf1ads6f5dsf1a.mp4",
-                "play": true 
+                "play": false 
             },
             { 
                 "id": 6,
                 "episodeTitle": "Capítulo 7",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia601504.us.archive.org/4/items/Cybr7fds5f1asdf6ds1f65dsfads/Cybr7fds5f1asdf6ds1f65dsfads.mp4",
-                "play": true
+                "play": false
             },
             {
                "id": 7,
                 "episodeTitle": "Capítulo 8",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia601402.us.archive.org/9/items/Cybr8f51dsaf65sda1f6dsa/Cybr8f51dsaf65sda1f6dsa.mp4",
-                "play": true 
+                "play": false
             },
             { 
                 "id": 8,
                 "episodeTitle": "Capítulo 9",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia801506.us.archive.org/13/items/Cybr9fsda1f3sdf156f1ds6fafds/Cybr9fsda1f3sdf156f1ds6fafds.mp4",
-                "play": true
+                "play": false
             },
             {
                "id": 9,
                 "episodeTitle": "Capítulo 10",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
                 "iframe": "https://ia601408.us.archive.org/3/items/Cybr10fsd5f1sf6fds1a6f1sf1a6fds56fss/CyberP-10.lat.AnimeYT.es.mp4",
-                "play": true 
+                "play": false
             }
         ]
     }
