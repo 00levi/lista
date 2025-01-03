@@ -185,14 +185,14 @@
         "id": 26,
         "title": "warner",
         "image": "https://www.cablevisionhd.com/imge/warnerbrostv.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/warnerchannel.html",
+        "iframe": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=warner",
         "play": false
     },
     {
         "id": 27, 
-        "title": "dragonballsuper",
+        "title": "adultswing",
         "image": "https://www.cablevisionhd.com/imge/dragonballsuper.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/dragonballsuper.html",
+        "iframe": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=adult-swin",
         "play": false
     },
     {
