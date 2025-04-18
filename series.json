@@ -1379,13 +1379,86 @@
             },
             {
                 "id": 2,
-                "episodeTitle": "Capítulo 2",
+                "episodeTitle": "Capítulo 3",
                 "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
                 "video": "https://868419157.tapecontent.net/radosgw/DGOK1z1b2YFDXA/D8iGQE3gf7zUYRqF89Z8tnokeTbndct5ogOW8u4F7TRuZAY1ePfZcQqnxgAN9I2dEOLKAitZop7Qb8o7RkjbtzzG5RTQz5vjLfBfa788XztQgVswt1JTaPVeXcvG3T15LvDcC6cR_0fTwVIl8HpyC8VQ6KDLdvfiBd0fYHGlSIFEwitD3WJahu6w0AopbtvgnP4NEED00XvcUFBy60dC9fR28QCQLZsE0IPMMq0aXcuXFlVDB3UN08GjRC7AKdAM8oWnTJODdTeR44fSuyRX6R6txdZNDJq5pSdJMca-qopjeRC8ogzrdpadWHOIIzwdjqJqGG166jW2V5df/%5BAnimeOnlineNinja%5D+Konosuba+Latino+BD+03.mp4?stream=1",
                 "play": false,
+                "introStart": 120,
+                "introEnd": 205
+            },
+            {
+                "id": 3,
+                "episodeTitle": "Capítulo 4",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery31.mxcontent.net/v2/knxj3ne9u3mneg9.mp4?s=XnJHeHQ9o9rbQW7jZGnHBA&e=1744965879&_t=1744949049",
+                "play": false,
                 "introStart": 110,
                 "introEnd": 195
+            },
+            {
+                "id": 4,
+                "episodeTitle": "Capítulo 5",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery47.mxcontent.net/v2/mdem3d4obv7dp7.mp4?s=pH3dA2DLj1R63bz6p_E33A&e=1744966151&_t=1744951918",
+                "play": false,
+                "introStart": 136,
+                "introEnd": 221
+            },
+            {
+                "id": 5,
+                "episodeTitle": "Capítulo 6",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery34.mxcontent.net/v2/0vlk8vwoaxlnjg.mp4?s=n_6GizYtq64WxU9GeSGgtQ&e=1744966211&_t=1744945714",
+                "play": false,
+                "introStart": 110,
+                "introEnd": 195
+            },
+            {
+                "id": 6,
+                "episodeTitle": "Capítulo 7",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery34.mxcontent.net/v2/4nxg8nnqaowvrz.mp4?s=jw1Khi5Gqlj_svr3csRsRQ&e=1744966244&_t=1744949920",
+                "play": false,
+                "introStart": 21,
+                "introEnd": 106
+            },
+            {
+                "id": 7,
+                "episodeTitle": "Capítulo 8",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery37.mxcontent.net/v2/840p840qhzlok.mp4?s=pU7dddq17UTeCo2nh7XSLQ&e=1744966290&_t=1744947246",
+                "play": false,
+                "introStart": 60,
+                "introEnd": 145
+            },
+            {
+                "id": 8,
+                "episodeTitle": "Capítulo 9",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery27.mxcontent.net/v2/7rdo8r6vfejxr8.mp4?s=6F-CwIbLzwRguplaUWJo4w&e=1744966316&_t=1744950970",
+                "play": false,
+                "introStart": 152,
+                "introEnd": 227
+            },
+            {
+                "id": 9,
+                "episodeTitle": "Capítulo 10",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery38.mxcontent.net/v2/7rdo8rvqb9qv9k.mp4?s=i4vmuY8C4xQ-j4DWaRTdIw&e=1744966342&_t=1744952600",
+                "play": false,
+                "introStart": 55,
+                "introEnd": 140
+            },
+            {
+                "id": 10,
+                "episodeTitle": "ova",
+                "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
+                "video": "https://s-delivery36.mxcontent.net/v2/1vqw8v03top0p7.mp4?s=GHGz2xobMsujCXsZks3Kyw&e=1744966377&_t=1744950552",
+                "play": false,
+                "introStart": 60,
+                "introEnd": 145
             }
+            
         ]
     }
 ]
