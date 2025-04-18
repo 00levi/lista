@@ -882,7 +882,7 @@
                 "id": 0,
                 "episodeTitle": "Capítulo 0",
                 "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "mp4,https://filemoon.sx/e/k3tmamgu15kt",
+                "iframe": "https://filemoon.sx/e/k3tmamgu15kt",
                 "play": true
             },
             {
@@ -1249,8 +1249,8 @@
                "id": 22,
                 "episodeTitle": "Capítulo 23",
                 "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/42y4hjhi",
-                "play": true 
+                "video": "https://videos2.sendvid.com/8f/0f/42y4hjhi.mp4?validfrom=1744985506&validto=1744999906&rate=200k&ip=186.22.253.70&hash=KxWCYWZ5m10QBzyvs6rQ82Gf5EI%3D",
+                "play": false
             },
             {
                "id": 23,
@@ -1285,71 +1285,91 @@
                 "id": 0,
                 "episodeTitle": "Capítulo 1",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7900&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxjGhVLA0yWqAzULHDgjzPxIJo2ZVUBATLy8CG8AD1sBNjpaCp77SzzuzCPXWHSRCj50dtcWXofTNaLGlHfC8PA/zUgm4Boq46KRHM9mrF3olUPf8GDWhmfWbCY6E9iX7aTzJn2X2xL+7Vy/nk6ZxhUNUFlsI5WmUOkpKU+QSYZ+eAkyS5pkGQ3FqyAlkA3dp6nbQz/neCETsWozsO2pBJlcgE",
-                "play": false
+                "video": "https://ia801502.us.archive.org/23/items/Cyb01latf1dsf56sds5161df61sd6fdsf/CyberP-01.lat.AnimeYT.es.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 0
             },
             {
                "id": 1,
                 "episodeTitle": "Capítulo 2",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7901&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxjGtVLA0yWqAzA+LGlSuNx8A/jsBUbhr71pTQph/ymFoRuLH5+9f6jezaInWVVjfj41o8Ch3kaC8HNXwBfDkPG+fThnhJ3LtEbgTW73Sa+9Imd+00S3JzKXGDaKYEyH32TSR422a1JenVy76kt8FcG5dp5d9mIx4D+sHlyGGxLdmnw07U3GKikBL4Hlloms9uivp9p2/kViAK",
-                "play": false 
+                "video": "https://ia801507.us.archive.org/2/items/Cyb02latf1ds5f3ds16saf1f/Cyb02latf1ds5f3ds16saf1f.mp4",
+                "play": false ,
+                "introStart": 77,
+                "introEnd": 165
             },
             { 
                 "id": 2,
                 "episodeTitle": "Capítulo 3",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7902&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxjGpVLA0yD7dxULLEkG7awIY6m8dUVkbkgLWZ9kOggF1Uuqa/rIKoz7zaNyXGAyL76E57Bly2LGJYY2kcLXdIAbGd1GMH9ORrezmX2jae7M9ld+ccSmBwWD2bdv8CyWfeBz986yahMfbmhejn2dwyBJRr5d84WAt9xOTP4WWKet+/nF3WlGGw0BzgFg5O3ZN03dJs4zSzGClV7HVYhdc=",
-                "play": false
+                "video": "https://ia601506.us.archive.org/2/items/Cyb03latfds1f61a6f15ds6fds/Cyb03latfds1f61a6f15ds6fds.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 88
             },
             {
                "id": 3,
                 "episodeTitle": "Capítulo 4",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7903&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbnWFxiB9aLj0+O403ZsCkvh7fkvc0uLhFYnHp4KrP1wrxiU5w8fL4s4j/ivOtP32eAgiZoE97Bly2LGJYY2kcLXdIAbGd1GMH9ORrezmX2jaWsYh/YrALC2hfK3OCb78E332EByJUmH6kbPnmivjx64dcG9Mp1Z9oDCQOkpGUlxmcLILn+EOIuWWzs3iYPD1c0cN/mLQlpyazFn9NrXU+ncwKwtkNzu6Z1WPK",
-                "play": false 
+                "video": "https://dn721902.ca.archive.org/0/items/cyb4FccDjPIwPDQOFccDjPIwPDQO/CyberP-04.lat.AnimeYT.es.mp4",
+                "play": false ,
+                "introStart": 0,
+                "introEnd": 88
             },
             { 
                 "id": 4,
                 "episodeTitle": "Capítulo 5",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7904&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxiT8IKQoyXvJxReCUxz6JkNct2cQEVGmX7I+CoRWiiE9G6fT97oD/yLvZMHCAVmT76ARlWAXkNGIELmoHO3EPSbHPgn8D865EbjmX73Se5cMmZvMMBitsdnWwKaY9iXn2TSY/jzmIbuLr3LmivYtMcZMy27FoUDA/2OXs0n6WeeSb70KSjnb13hKxEBkOxdItu/Nv5CCqAH9N9HUHhQ==",
-                "play": false
+                "video": "https://dn721608.ca.archive.org/0/items/Cyb5f1dsf561sda6f5ads156f/Cyb5f1dsf561sda6f5ads156f.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 88
             },
             {
                "id": 5,
                 "episodeTitle": "Capítulo 6",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7905&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxzm9fKQplDaV1UveTwDnYgoU43ZVBVATZ89mj7RHh2lpEr/Oq/NH6jbvdMHCAUTf46lluGVDodTBAYzVRLmxeB/bV1DFR6OBsMRaC2jajrc9lc/kNSnFuYHDCaaAG+ibePn546yajdqK5uKP65KBmQ+Mp1rsxERFlxJPPzm2QU+C18wGNr135mEClR1cOjNxt3axypxGjEjwCuiNYwohJysg=",
-                "play": false 
+                "video": "https://ia801503.us.archive.org/7/items/Cybr6fds1fa5dsf1ads6f5dsf1a/Cybr6fds1fa5dsf1ads6f5dsf1a.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 88 
             },
             { 
                 "id": 6,
                 "episodeTitle": "Capítulo 7",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7906&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxzm5fKQphDfUhReCTxzzPwNVo3ZVBVFTc3KrP1wrxngtGuLH5+9X/jbmKZ3CAVjf7u057TlCia24ZMS1RciFdHODTk3lRurZwNRHI9SOjrfone/MJA2AtcH+IZPwO1G72TSVUmHmIbu2+3LzIqolkX+ocgLR6IQBm//br7WqsV9KO/gSTjHCFtx6oFRwO04t8ivQrvy7kMDgRtyIWjIhRlZcEkQ==",
-                "play": false
+                "video": "https://dn721608.ca.archive.org/0/items/Cybr7fds5f1asdf6ds1f65dsfads/Cybr7fds5f1asdf6ds1f65dsfads.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 88
             },
             {
                "id": 7,
                 "episodeTitle": "Capítulo 8",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7907&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxzmFfeEgwGKUmALGGlTmNl4U6m5BuHXbBzYTY8kaiiE9BuvT57oD/z7vaNWeSSTy9uggkCkGpazQRMztJfGtZB+PUzFdc3LtxLATf4zeL78JqPPEaA1kscE7Ddo5O0T6SUg0nj2KkCcvjtO/f9sNCWuAM66lPHicYjtPTxGb3Ldmnw07U3GKikBL4Hlloms9uivp9p2/kViAK",
-                "play": false
+                "video": "https://ia801402.us.archive.org/9/items/Cybr8f51dsaf65sda1f6dsa/Cybr8f51dsaf65sda1f6dsa.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 88
             },
             { 
                 "id": 8,
                 "episodeTitle": "Capítulo 9",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7908&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxzmBfPh01WqJzReCTwG2Kl4I6m8dUU1Pc3KrP1wrxngVGr6atrIKtjbmKYCHFAWCp/RxuSVeia24ZMS1RciFdHODTk3lRurZwNRHI9SOjrfone/MJA2AtcH+IZPwO1G72TSVUmHmIbu2+3LzIqpV4RuIgw6VOKQ8T9eWRy1KUVueznCCRnUe5tR6oFRwO04t8ivQrvy7kMDgRtyIWjIhRlZcEkQ==",
-                "play": false
+                "video": "https://ia801506.us.archive.org/13/items/Cybr9fsda1f3sdf156f1ds6fafds/Cybr9fsda1f3sdf156f1ds6fafds.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 88
             },
             {
                "id": 9,
                 "episodeTitle": "Capítulo 10",
                 "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
-                "iframe": "https://vvv.animeyt.one/stream.php?id=7909&srv=/new/redirector.php?server=omega2&value=nCLCQmLtFml/wHRSNI+EmeWTWnDDqxxU0UhBxklQTirDOkkVpuL2iODbvWFxzmgJKwowXqJxReLDlzzPwNJojsBBVATZmZCE50alik9TgO2P5Ib7jI3BYCTdCzC5oGtmQVyjQRRaJGpdM3MZUb+FhmQA9PFqY1+a7m2L8tUyTrE0S2xuZXWJKKYMwmuEDSNv6yagHbX5uKPjssswaIk0yLR4OSUY0czw/2yDM96f6SfMjkmal16IIkoCldlo3bor9iCkVmcM9BMfnsse28Fb1vaZimM=",
-                "play": false
+                "video": "https://ia801408.us.archive.org/3/items/Cybr10fsd5f1sf6fds1a6f1sf1a6fds56fss/CyberP-10.lat.AnimeYT.es.mp4",
+                "play": false,
+                "introStart": 0,
+                "introEnd": 88
             }
         ]
     },
@@ -1458,7 +1478,113 @@
                 "introStart": 60,
                 "introEnd": 145
             }
-            
+        ]
+    },
+    { 
+        "id": 11,
+        "title": "Konosuba temp 2 latino",
+        "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+        "play": true,
+        "episodes": [
+            { 
+                "id": 0,
+                "episodeTitle": "Capítulo 1",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "https://858142515.tapecontent.net/radosgw/okpwDXyM9DuJrQ8/bjihrf9boTooPm9-AMYJAxxSGI0HZv75qsk_REn7GFiVABkvc-4qriEuZsMmyCv9GS9PfchZ_1qDYau9_yMffpjSD-gRGOeYH1A1f2lQqm7JAvKSfSw5Mo1sfdKM5SrL_ww7P_IkSxq1bZPmJ2qvUjRPItidtXdYIgJ-cIT-MrwRkJrEIldpdWsAucSVW4an1t8kBNbn6rFl2d-Ou03q_nC_j_-RSYihTtbjJKyZ22-r30irGfF54v-pBTqpLOeZuepPvASTmCosRPnhs3Bplh82sGzbx5okAYSzcrLfFveG4ABxNg1ZzMAUjCpIkRo2hVFo7qkPaOoj2e6k/%5BAnimeOnlineNinja%5D+Konosuba+S2+Latino+BD+01.mp4?stream=1",
+                "play": false,
+                "introStart": 110,
+                "introEnd": 195
+            },
+            {
+               "id": 1,
+                "episodeTitle": "Capítulo 2",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 150,
+                "introEnd": 240
+            },
+            {
+                "id": 2,
+                "episodeTitle": "Capítulo 3",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 120,
+                "introEnd": 205
+            },
+            {
+                "id": 3,
+                "episodeTitle": "Capítulo 4",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 110,
+                "introEnd": 195
+            },
+            {
+                "id": 4,
+                "episodeTitle": "Capítulo 5",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 136,
+                "introEnd": 221
+            },
+            {
+                "id": 5,
+                "episodeTitle": "Capítulo 6",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 110,
+                "introEnd": 195
+            },
+            {
+                "id": 6,
+                "episodeTitle": "Capítulo 7",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 21,
+                "introEnd": 106
+            },
+            {
+                "id": 7,
+                "episodeTitle": "Capítulo 8",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 60,
+                "introEnd": 145
+            },
+            {
+                "id": 8,
+                "episodeTitle": "Capítulo 9",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 152,
+                "introEnd": 227
+            },
+            {
+                "id": 9,
+                "episodeTitle": "Capítulo 10",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 55,
+                "introEnd": 140
+            },
+            {
+                "id": 10,
+                "episodeTitle": "ova",
+                "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
+                "video": "",
+                "play": false,
+                "introStart": 60,
+                "introEnd": 145
+            }
         ]
     }
 ]
