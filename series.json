@@ -1364,21 +1364,24 @@
                 "episodeTitle": "Capítulo 1",
                 "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
                 "video": "https://861481696.tapecontent.net/radosgw/2P0YAwDx4QHZgry/AeBxETGAHfMplbIH-vhgjkGNcdJe1c5xq7p1dDBmUQvxw3otfBHgPx7BeAf3NLLCvll3yamJchBeNh3qxh73nk8RnAZx2JipM_FjcKUljHb8x3Ui1fnUG4Dii2RhALYwINuy5RxDtsof1IKKU2fUWp6UG89SP7YPemYNOOXrm1oRCmCBxyE5leJuTT3l77EzSD_QJ1c0JNEfTpsqt4wagzZ0MKDRE4Nbkg3P_-M3NKxRpcuM0rbke4ybmFZfVqRdMpVutYOnYuOHkp7KM49VYUgtta6z_lRdRaAzWZwlX5a1oUrHVJbZb6NteZl9WYIGa-x7GMkSlLHsmJUn/%5BAnimeOnlineNinja%5D+Konosuba+Latino+BD+01.mp4?stream=1",
-                "play": false
+                "play": false,
+                "introSkipTime": 90
             },
             {
                "id": 1,
                 "episodeTitle": "Capítulo 2",
                 "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
                 "video": "https://861480982.tapecontent.net/radosgw/6Xo8zgRa88H9k0M/4S1BjlGtiIq5ccpxI096KP_vjKWnNjBgZegB6BYjmasJf_Pl_sqwgw7JWZp7paJIl1PXvdkZiSk67ntW01-pbYLHhi1q4iGfvqYLXoICs4XCaJHg1D0hPPlEKU5MtWuiXl9thW0KE-DLUf_JxmrzVybaI36dLJlvuz8lL4tBrOi4r6S9Ih9JeXyhJ3cL53GFuV5lOt9lpfbLN4ZsysmW6baus1PDAhOSPU80SFtpuFeKCxsViNEMYUK2MD5KWwIpRkpVX0jtmmC1miLUqk_zaxl0I5Fmv5bm_7bIdQ0TObNDrbawLpj_YSFyRqy1rK3WMnRx6auVoLT-v7o6/%5BAnimeOnlineNinja%5D+Konosuba+Latino+BD+02.mp4?stream=1",
-                "play": false 
+                "play": false,
+                "introSkipTime": 90
             },
             {
                 "id": 2,
                 "episodeTitle": "Capítulo 2",
                 "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
                 "video": "https://868419157.tapecontent.net/radosgw/DGOK1z1b2YFDXA/D8iGQE3gf7zUYRqF89Z8tnokeTbndct5ogOW8u4F7TRuZAY1ePfZcQqnxgAN9I2dEOLKAitZop7Qb8o7RkjbtzzG5RTQz5vjLfBfa788XztQgVswt1JTaPVeXcvG3T15LvDcC6cR_0fTwVIl8HpyC8VQ6KDLdvfiBd0fYHGlSIFEwitD3WJahu6w0AopbtvgnP4NEED00XvcUFBy60dC9fR28QCQLZsE0IPMMq0aXcuXFlVDB3UN08GjRC7AKdAM8oWnTJODdTeR44fSuyRX6R6txdZNDJq5pSdJMca-qopjeRC8ogzrdpadWHOIIzwdjqJqGG166jW2V5df/%5BAnimeOnlineNinja%5D+Konosuba+Latino+BD+03.mp4?stream=1",
-                "play": false
+                "play": false,
+                "introSkipTime": 90
             }
         ]
     }
