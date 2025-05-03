@@ -3611,195 +3611,1462 @@
             }
         ]
     },
-    { 
+    {
         "id": 8,
-        "title": "Dragon Ball z saga majin boo",
-        "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-        "play": true,
-        "episodes": [
-            { 
-                "id": 0,
-                "episodeTitle": "Capítulo 1",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/ufo47xip",
-                "play": true
-            },
-            {
-               "id": 1,
-                "episodeTitle": "Capítulo 2",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/wf15022s",
-                "play": true 
-            },
-            { 
-                "id": 2,
-                "episodeTitle": "Capítulo 3",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/b4k0e13f",
-                "play": true
-            },
-            {
-               "id": 3,
-                "episodeTitle": "Capítulo 4",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/5g2iya31",
-                "play": true 
-            },
-            { 
-                "id": 4,
-                "episodeTitle": "Capítulo 5",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/05jx0azd",
-                "play": true
-            },
-            {
-               "id": 5,
-                "episodeTitle": "Capítulo 6",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/8qcc0h96",
-                "play": true 
-            },
-            { 
-                "id": 6,
-                "episodeTitle": "Capítulo 7",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/gni96o16",
-                "play": true
-            },
-            {
-               "id": 7,
-                "episodeTitle": "Capítulo 8",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/0qr72t7f",
-                "play": true 
-            },
-            { 
-                "id": 8,
-                "episodeTitle": "Capítulo 9",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/g2y8dc27",
-                "play": true
-            },
-            {
-               "id": 9,
-                "episodeTitle": "Capítulo 10",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/lz7l9s2t",
-                "play": true 
-            },
-            { 
-                "id": 10,
-                "episodeTitle": "Capítulo 11",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/7abtrbt0",
-                "play": true
-            },
-            {
-               "id": 11,
-                "episodeTitle": "Capítulo 12",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://ok.ru/videoembed/1794187922071",
-                "play": true 
-            },
-            {
-               "id": 12,
-                "episodeTitle": "Capítulo 13",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://ok.ru/videoembed/1794187922071",
-                "play": true 
-            },
-            {
-               "id": 13,
-                "episodeTitle": "Capítulo 14",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/0se5cmg9",
-                "play": true 
-            },
-            {
-               "id": 14,
-                "episodeTitle": "Capítulo 15",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/p5nob2nh",
-                "play": true 
-            },
-            {
-               "id": 15,
-                "episodeTitle": "Capítulo 16",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/236p1zfi",
-                "play": true 
-            },
-            {
-               "id": 16,
-                "episodeTitle": "Capítulo 17",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/581hoq3g",
-                "play": true 
-            },
-            {
-               "id": 17,
-                "episodeTitle": "Capítulo 18",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/i2i4712w",
-                "play": true 
-            },
-            {
-               "id": 18,
-                "episodeTitle": "Capítulo 19",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/5r0p3n5z",
-                "play": true 
-            },
-            {
-               "id": 19,
-                "episodeTitle": "Capítulo 20",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/5r0p3n5z",
-                "play": true 
-            },
-            {
-               "id": 20,
-                "episodeTitle": "Capítulo 21",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/2vjp6dkq",
-                "play": true 
-            },
-            {
-               "id": 21,
-                "episodeTitle": "Capítulo 22",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/boxvk2be",
-                "play": true 
-            },
-            {
-               "id": 22,
-                "episodeTitle": "Capítulo 23",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "video": "https://videos2.sendvid.com/8f/0f/42y4hjhi.mp4?validfrom=1744985506&validto=1744999906&rate=200k&ip=186.22.253.70&hash=KxWCYWZ5m10QBzyvs6rQ82Gf5EI%3D",
-                "play": false
-            },
-            {
-               "id": 23,
-                "episodeTitle": "Capítulo 24",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/6qf8wo3o",
-                "play": true 
-            },
-            {
-               "id": 24,
-                "episodeTitle": "Capítulo 25",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/x2gg1rkc",
-                "play": true 
-            },
-            {
-               "id": 25,
-                "episodeTitle": "Capítulo 26",
-                "image": "https://blogdaileon.com/wp-content/uploads/2021/07/dbz-na-globo.jpg?w=774",
-                "iframe": "https://sendvid.com/embed/w8u1feel",
-                "play": true 
-            }
-        ]
+      "title": "Ranma 1/2 (Español Latino)",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20001%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20002%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20003%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20004%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20005%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20006%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20007%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20008%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20009%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20010%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20011%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20012%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 12,
+          "episodeTitle": "Capítulo 13",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20013%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 13,
+          "episodeTitle": "Capítulo 14",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20014%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 14,
+          "episodeTitle": "Capítulo 15",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20015%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 15,
+          "episodeTitle": "Capítulo 16",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20016%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 16,
+          "episodeTitle": "Capítulo 17",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20017%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 17,
+          "episodeTitle": "Capítulo 18",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20018%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 18,
+          "episodeTitle": "Capítulo 19",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20019%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 19,
+          "episodeTitle": "Capítulo 20",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20020%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 20,
+          "episodeTitle": "Capítulo 21",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20021%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 21,
+          "episodeTitle": "Capítulo 22",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20022%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 22,
+          "episodeTitle": "Capítulo 23",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20023%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 23,
+          "episodeTitle": "Capítulo 24",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20024%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 24,
+          "episodeTitle": "Capítulo 25",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20025%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 25,
+          "episodeTitle": "Capítulo 26",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20026%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 26,
+          "episodeTitle": "Capítulo 27",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20027%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 27,
+          "episodeTitle": "Capítulo 28",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20028-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 28,
+          "episodeTitle": "Capítulo 29",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20029%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 29,
+          "episodeTitle": "Capítulo 30",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20030%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 30,
+          "episodeTitle": "Capítulo 31",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20031%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 31,
+          "episodeTitle": "Capítulo 32",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20032%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 32,
+          "episodeTitle": "Capítulo 33",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20033%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 33,
+          "episodeTitle": "Capítulo 34",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20034%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 34,
+          "episodeTitle": "Capítulo 35",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20035%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 35,
+          "episodeTitle": "Capítulo 36",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20036%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 36,
+          "episodeTitle": "Capítulo 37",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20037%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 37,
+          "episodeTitle": "Capítulo 38",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20038%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 38,
+          "episodeTitle": "Capítulo 39",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20039%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 39,
+          "episodeTitle": "Capítulo 40",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20040%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 40,
+          "episodeTitle": "Capítulo 41",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20041%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 41,
+          "episodeTitle": "Capítulo 42",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20042%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 42,
+          "episodeTitle": "Capítulo 43",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20043%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 43,
+          "episodeTitle": "Capítulo 44",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20044%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 44,
+          "episodeTitle": "Capítulo 45",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20045%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 45,
+          "episodeTitle": "Capítulo 46",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20046%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 46,
+          "episodeTitle": "Capítulo 47",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20047%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 47,
+          "episodeTitle": "Capítulo 48",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20048%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 48,
+          "episodeTitle": "Capítulo 49",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20049%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 49,
+          "episodeTitle": "Capítulo 50",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20050%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 50,
+          "episodeTitle": "Capítulo 51",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20051%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 51,
+          "episodeTitle": "Capítulo 52",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20052%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 52,
+          "episodeTitle": "Capítulo 53",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20053%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 53,
+          "episodeTitle": "Capítulo 54",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20054%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 54,
+          "episodeTitle": "Capítulo 55",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20055%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 55,
+          "episodeTitle": "Capítulo 56",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20056%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 56,
+          "episodeTitle": "Capítulo 57",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20057%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 57,
+          "episodeTitle": "Capítulo 58",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20058%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 58,
+          "episodeTitle": "Capítulo 59",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20059%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 59,
+          "episodeTitle": "Capítulo 60",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20060%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 60,
+          "episodeTitle": "Capítulo 61",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20061%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 61,
+          "episodeTitle": "Capítulo 62",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20062%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 62,
+          "episodeTitle": "Capítulo 63",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20063%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 63,
+          "episodeTitle": "Capítulo 64",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20064%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 64,
+          "episodeTitle": "Capítulo 65",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20065%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 65,
+          "episodeTitle": "Capítulo 66",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20066%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 66,
+          "episodeTitle": "Capítulo 67",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20067%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 67,
+          "episodeTitle": "Capítulo 68",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20068%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 68,
+          "episodeTitle": "Capítulo 69",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20069%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 69,
+          "episodeTitle": "Capítulo 70",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20070%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 70,
+          "episodeTitle": "Capítulo 71",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20071%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 71,
+          "episodeTitle": "Capítulo 72",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20072%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 72,
+          "episodeTitle": "Capítulo 73",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20073%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 73,
+          "episodeTitle": "Capítulo 74",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20074%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 74,
+          "episodeTitle": "Capítulo 75",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20075%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 75,
+          "episodeTitle": "Capítulo 76",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20076%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 76,
+          "episodeTitle": "Capítulo 77",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20077%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 77,
+          "episodeTitle": "Capítulo 78",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20078%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 78,
+          "episodeTitle": "Capítulo 79",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20079%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 79,
+          "episodeTitle": "Capítulo 80",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20080%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 80,
+          "episodeTitle": "Capítulo 81",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20081%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 81,
+          "episodeTitle": "Capítulo 82",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20082%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 82,
+          "episodeTitle": "Capítulo 83",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20083%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 83,
+          "episodeTitle": "Capítulo 84",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20084%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 84,
+          "episodeTitle": "Capítulo 85",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20085%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 85,
+          "episodeTitle": "Capítulo 86",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20086%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 86,
+          "episodeTitle": "Capítulo 87",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20087%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 87,
+          "episodeTitle": "Capítulo 88",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20088%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 88,
+          "episodeTitle": "Capítulo 89",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20089%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 89,
+          "episodeTitle": "Capítulo 90",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20090%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 90,
+          "episodeTitle": "Capítulo 91",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20091%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 91,
+          "episodeTitle": "Capítulo 92",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20092%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 92,
+          "episodeTitle": "Capítulo 93",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20093%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 93,
+          "episodeTitle": "Capítulo 94",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20094%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 94,
+          "episodeTitle": "Capítulo 95",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20095%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 95,
+          "episodeTitle": "Capítulo 96",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20096%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 96,
+          "episodeTitle": "Capítulo 97",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20097%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 97,
+          "episodeTitle": "Capítulo 98",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20098%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 98,
+          "episodeTitle": "Capítulo 99",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20099%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 99,
+          "episodeTitle": "Capítulo 100",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20100%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 100,
+          "episodeTitle": "Capítulo 101",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20101%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 101,
+          "episodeTitle": "Capítulo 102",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20102%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 102,
+          "episodeTitle": "Capítulo 103",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20103%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 103,
+          "episodeTitle": "Capítulo 104",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20104%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 104,
+          "episodeTitle": "Capítulo 105",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20105%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 105,
+          "episodeTitle": "Capítulo 106",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20106%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 106,
+          "episodeTitle": "Capítulo 107",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20107%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 107,
+          "episodeTitle": "Capítulo 108",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20108%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 108,
+          "episodeTitle": "Capítulo 109",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20109%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 109,
+          "episodeTitle": "Capítulo 110",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20110%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 110,
+          "episodeTitle": "Capítulo 111",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20111%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 111,
+          "episodeTitle": "Capítulo 112",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20112%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 112,
+          "episodeTitle": "Capítulo 113",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20113%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 113,
+          "episodeTitle": "Capítulo 114",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20114%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 114,
+          "episodeTitle": "Capítulo 115",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20115%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 115,
+          "episodeTitle": "Capítulo 116",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20116%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 116,
+          "episodeTitle": "Capítulo 117",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20117%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 117,
+          "episodeTitle": "Capítulo 118",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20118%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 118,
+          "episodeTitle": "Capítulo 119",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20119%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 119,
+          "episodeTitle": "Capítulo 120",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20120%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 120,
+          "episodeTitle": "Capítulo 121",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20121%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 121,
+          "episodeTitle": "Capítulo 122",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20122%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 122,
+          "episodeTitle": "Capítulo 123",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20123%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 123,
+          "episodeTitle": "Capítulo 124",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20124%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 124,
+          "episodeTitle": "Capítulo 125",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20125%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 125,
+          "episodeTitle": "Capítulo 126",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20126%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 126,
+          "episodeTitle": "Capítulo 127",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20127%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 127,
+          "episodeTitle": "Capítulo 128",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20128%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 128,
+          "episodeTitle": "Capítulo 129",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20129%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 129,
+          "episodeTitle": "Capítulo 130",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20130%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 130,
+          "episodeTitle": "Capítulo 131",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20131%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 131,
+          "episodeTitle": "Capítulo 132",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20132%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 132,
+          "episodeTitle": "Capítulo 133",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20133%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 133,
+          "episodeTitle": "Capítulo 134",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20134%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 134,
+          "episodeTitle": "Capítulo 135",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20135%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 135,
+          "episodeTitle": "Capítulo 136",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20136%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 136,
+          "episodeTitle": "Capítulo 137",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20137%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 137,
+          "episodeTitle": "Capítulo 138",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20138%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 138,
+          "episodeTitle": "Capítulo 139",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20139%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 139,
+          "episodeTitle": "Capítulo 140",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20140%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 140,
+          "episodeTitle": "Capítulo 141",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20141%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 141,
+          "episodeTitle": "Capítulo 142",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20142%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 142,
+          "episodeTitle": "Capítulo 143",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20143%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 143,
+          "episodeTitle": "Capítulo 144",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20144%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 144,
+          "episodeTitle": "Capítulo 145",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20145%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 145,
+          "episodeTitle": "Capítulo 146",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20146%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 146,
+          "episodeTitle": "Capítulo 147",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20147%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 147,
+          "episodeTitle": "Capítulo 148",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20148%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 148,
+          "episodeTitle": "Capítulo 149",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20149%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 149,
+          "episodeTitle": "Capítulo 150",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20150%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 150,
+          "episodeTitle": "Capítulo 151",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20151%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 151,
+          "episodeTitle": "Capítulo 152",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20152%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 152,
+          "episodeTitle": "Capítulo 153",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20153%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 153,
+          "episodeTitle": "Capítulo 154",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20154%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 154,
+          "episodeTitle": "Capítulo 155",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20155%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 155,
+          "episodeTitle": "Capítulo 156",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://dn720300.ca.archive.org/0/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20156%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 156,
+          "episodeTitle": "Capítulo 157",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20157%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 157,
+          "episodeTitle": "Capítulo 158",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20158%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 158,
+          "episodeTitle": "Capítulo 159",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20159%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 159,
+          "episodeTitle": "Capítulo 160",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia802202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20160%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        },
+        {
+          "id": 160,
+          "episodeTitle": "Capítulo 161",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
+          "video": "https://ia902202.us.archive.org/30/items/ranma-nibunnoichi-espanol-latino-y-japones/Ranma%C2%BD%20%20-%20Episodio%20161%20-%20Espa%C3%B1ol%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 95
+        }
+      ]
     },
     { 
         "id": 9,
