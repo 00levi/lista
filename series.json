@@ -427,97 +427,2623 @@
             }
         ]
     },
-    { 
+    {
         "id": 1,
-        "title": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Latino",
-        "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-        "play": false,
-        "episodes": [
-            { 
-                "id": 0,
-                "episodeTitle": "Capítulo 1",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/j5grai1enzgz/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_01_v2.mp4",
-                "play": true
-            },
-            { 
-                "id": 1,
-                "episodeTitle": "Capítulo 2",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/9r4ks5udbmpp/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_02.mp4",
-                "play": true
-            },
-            { 
-                "id": 2,
-                "episodeTitle": "Capítulo 3",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/bhob0dv91xsi/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_03.mp4",
-                "play": true
-            },
-            { 
-                "id": 3,
-                "episodeTitle": "Capítulo 4",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/dzw8eh3s7hca/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_04.mp4",
-                "play": true
-            },
-            { 
-                "id": 4,
-                "episodeTitle": "Capítulo 5",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/wggaxf411gan/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_05.mp4",
-                "play": true
-            },
-            { 
-                "id": 5,
-                "episodeTitle": "Capítulo 6",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/2myo935pjxgh/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_06.mp4",
-                "play": true
-            },
-            { 
-                "id": 6,
-                "episodeTitle": "Capítulo 7",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/gzwoq8lpq016/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_07.mp4",
-                "play": true
-            },
-            { 
-                "id": 7,
-                "episodeTitle": "Capítulo 8",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/p46w2cdayw9j/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_08.mp4",
-                "play": true
-            },
-            { 
-                "id": 8,
-                "episodeTitle": "Capítulo 9",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon.sx/e/ehr4646w5479/_AnimeOnlineNinja__Alya_Sometimes_Hides_Her_Feelings_in_Russian_Latino_09.mp4",
-                "play": true
-            },
-            { 
-                "id": 9,
-                "episodeTitle": "Capítulo 10",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "https://filemoon-2ddx0brg.xyz/e/imbh3rga8mza?referer=saidochesto.top",
-                "play": true
-            },
-            { 
-                "id": 10,
-                "episodeTitle": "Capítulo 11",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "",
-                "play": true
-            },
-            { 
-                "id": 11,
-                "episodeTitle": "Capítulo 12",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/07/Tokidoki-Bosotto-Russia-go.jpg",
-                "iframe": "",
-                "play": true
-            }
-        ]
+      "title": "Dragon Ball Z (Español Latino)",
+      "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20001.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20002.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20003.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20004.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20005.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20006.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20007.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20008.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20009.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20010.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20011.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20012.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 12,
+          "episodeTitle": "Capítulo 13",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20013.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 13,
+          "episodeTitle": "Capítulo 14",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20014.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 14,
+          "episodeTitle": "Capítulo 15",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20015.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 15,
+          "episodeTitle": "Capítulo 16",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20016.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 16,
+          "episodeTitle": "Capítulo 17",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20017.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 17,
+          "episodeTitle": "Capítulo 18",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20018.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 18,
+          "episodeTitle": "Capítulo 19",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20019.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 19,
+          "episodeTitle": "Capítulo 20",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20020.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 20,
+          "episodeTitle": "Capítulo 21",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20021.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 21,
+          "episodeTitle": "Capítulo 22",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20022.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 22,
+          "episodeTitle": "Capítulo 23",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20023.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 23,
+          "episodeTitle": "Capítulo 24",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20024.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 24,
+          "episodeTitle": "Capítulo 25",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20025.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 25,
+          "episodeTitle": "Capítulo 26",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20026.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 26,
+          "episodeTitle": "Capítulo 27",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20027.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 27,
+          "episodeTitle": "Capítulo 28",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20028.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 28,
+          "episodeTitle": "Capítulo 29",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20029.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 29,
+          "episodeTitle": "Capítulo 30",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20030.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 30,
+          "episodeTitle": "Capítulo 31",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20031.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 31,
+          "episodeTitle": "Capítulo 32",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20032.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 32,
+          "episodeTitle": "Capítulo 33",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20033.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 33,
+          "episodeTitle": "Capítulo 34",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20034.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 34,
+          "episodeTitle": "Capítulo 35",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20035.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 35,
+          "episodeTitle": "Capítulo 36",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20036.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 36,
+          "episodeTitle": "Capítulo 37",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20037.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 37,
+          "episodeTitle": "Capítulo 38",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20038.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 38,
+          "episodeTitle": "Capítulo 39",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20039.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 39,
+          "episodeTitle": "Capítulo 40",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20040.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 40,
+          "episodeTitle": "Capítulo 41",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20041.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 41,
+          "episodeTitle": "Capítulo 42",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20042.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 42,
+          "episodeTitle": "Capítulo 43",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20043.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 43,
+          "episodeTitle": "Capítulo 44",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20044.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 44,
+          "episodeTitle": "Capítulo 45",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20045.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 45,
+          "episodeTitle": "Capítulo 46",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20046.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 46,
+          "episodeTitle": "Capítulo 47",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20047.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 47,
+          "episodeTitle": "Capítulo 48",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20048.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 48,
+          "episodeTitle": "Capítulo 49",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20049.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 49,
+          "episodeTitle": "Capítulo 50",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20050.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 50,
+          "episodeTitle": "Capítulo 51",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20051.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 51,
+          "episodeTitle": "Capítulo 52",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20052.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 52,
+          "episodeTitle": "Capítulo 53",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20053.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 53,
+          "episodeTitle": "Capítulo 54",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20054.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 54,
+          "episodeTitle": "Capítulo 55",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20055.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 55,
+          "episodeTitle": "Capítulo 56",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20056.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 56,
+          "episodeTitle": "Capítulo 57",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20057.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 57,
+          "episodeTitle": "Capítulo 58",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20058.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 58,
+          "episodeTitle": "Capítulo 59",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20059.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 59,
+          "episodeTitle": "Capítulo 60",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20060.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 60,
+          "episodeTitle": "Capítulo 61",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20061.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 61,
+          "episodeTitle": "Capítulo 62",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20062.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 62,
+          "episodeTitle": "Capítulo 63",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20063.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 63,
+          "episodeTitle": "Capítulo 64",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20064.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 64,
+          "episodeTitle": "Capítulo 65",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20065.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 65,
+          "episodeTitle": "Capítulo 66",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20066.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 66,
+          "episodeTitle": "Capítulo 67",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20067.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 67,
+          "episodeTitle": "Capítulo 68",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20068.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 68,
+          "episodeTitle": "Capítulo 69",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20069.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 69,
+          "episodeTitle": "Capítulo 70",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20070.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 70,
+          "episodeTitle": "Capítulo 71",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20071.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 71,
+          "episodeTitle": "Capítulo 72",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20072.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 72,
+          "episodeTitle": "Capítulo 73",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20073.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 73,
+          "episodeTitle": "Capítulo 74",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20074.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 74,
+          "episodeTitle": "Capítulo 75",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20075.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 75,
+          "episodeTitle": "Capítulo 76",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20076.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 76,
+          "episodeTitle": "Capítulo 77",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20077.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 77,
+          "episodeTitle": "Capítulo 78",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20078.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 78,
+          "episodeTitle": "Capítulo 79",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20079.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 79,
+          "episodeTitle": "Capítulo 80",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20080.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 80,
+          "episodeTitle": "Capítulo 81",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20081.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 81,
+          "episodeTitle": "Capítulo 82",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20082.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 82,
+          "episodeTitle": "Capítulo 83",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20083.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 83,
+          "episodeTitle": "Capítulo 84",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20084.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 84,
+          "episodeTitle": "Capítulo 85",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20085.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 85,
+          "episodeTitle": "Capítulo 86",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20086.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 86,
+          "episodeTitle": "Capítulo 87",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20087.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 87,
+          "episodeTitle": "Capítulo 88",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20088.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 88,
+          "episodeTitle": "Capítulo 89",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20089.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 89,
+          "episodeTitle": "Capítulo 90",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20090.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 90,
+          "episodeTitle": "Capítulo 91",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20091.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 91,
+          "episodeTitle": "Capítulo 92",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20092.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 92,
+          "episodeTitle": "Capítulo 93",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20093.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 93,
+          "episodeTitle": "Capítulo 94",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20094.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 94,
+          "episodeTitle": "Capítulo 95",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20095.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 95,
+          "episodeTitle": "Capítulo 96",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20096.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 96,
+          "episodeTitle": "Capítulo 97",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20097.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 97,
+          "episodeTitle": "Capítulo 98",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20098.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 98,
+          "episodeTitle": "Capítulo 99",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20099.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 99,
+          "episodeTitle": "Capítulo 100",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20100.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 100,
+          "episodeTitle": "Capítulo 101",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20101.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 101,
+          "episodeTitle": "Capítulo 102",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20102.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 102,
+          "episodeTitle": "Capítulo 103",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20103.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 103,
+          "episodeTitle": "Capítulo 104",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20104.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 104,
+          "episodeTitle": "Capítulo 105",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20105.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 105,
+          "episodeTitle": "Capítulo 106",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20106.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 106,
+          "episodeTitle": "Capítulo 107",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20107.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 107,
+          "episodeTitle": "Capítulo 108",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20108.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 108,
+          "episodeTitle": "Capítulo 109",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20109.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 109,
+          "episodeTitle": "Capítulo 110",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20110.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 110,
+          "episodeTitle": "Capítulo 111",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20111.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 111,
+          "episodeTitle": "Capítulo 112",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20112.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 112,
+          "episodeTitle": "Capítulo 113",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20113.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 113,
+          "episodeTitle": "Capítulo 114",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20114.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 114,
+          "episodeTitle": "Capítulo 115",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20115.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 115,
+          "episodeTitle": "Capítulo 116",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20116.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 116,
+          "episodeTitle": "Capítulo 117",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20117.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 117,
+          "episodeTitle": "Capítulo 118",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20118.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 118,
+          "episodeTitle": "Capítulo 119",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20119.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 119,
+          "episodeTitle": "Capítulo 120",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20120.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 120,
+          "episodeTitle": "Capítulo 121",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20121.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 121,
+          "episodeTitle": "Capítulo 122",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20122.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 122,
+          "episodeTitle": "Capítulo 123",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20123.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 123,
+          "episodeTitle": "Capítulo 124",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20124.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 124,
+          "episodeTitle": "Capítulo 125",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20125.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 125,
+          "episodeTitle": "Capítulo 126",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20126.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 126,
+          "episodeTitle": "Capítulo 127",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20127.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 127,
+          "episodeTitle": "Capítulo 128",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20128.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 128,
+          "episodeTitle": "Capítulo 129",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20129.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 129,
+          "episodeTitle": "Capítulo 130",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20130.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 130,
+          "episodeTitle": "Capítulo 131",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20131.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 131,
+          "episodeTitle": "Capítulo 132",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20132.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 132,
+          "episodeTitle": "Capítulo 133",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20133.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 133,
+          "episodeTitle": "Capítulo 134",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20134.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 134,
+          "episodeTitle": "Capítulo 135",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20135.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 135,
+          "episodeTitle": "Capítulo 136",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20136.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 136,
+          "episodeTitle": "Capítulo 137",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20137.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 137,
+          "episodeTitle": "Capítulo 138",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20138.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 138,
+          "episodeTitle": "Capítulo 139",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20139.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 139,
+          "episodeTitle": "Capítulo 140",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20140.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 140,
+          "episodeTitle": "Capítulo 141",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20141.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 141,
+          "episodeTitle": "Capítulo 142",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20142.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 142,
+          "episodeTitle": "Capítulo 143",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20143.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 143,
+          "episodeTitle": "Capítulo 144",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20144.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 144,
+          "episodeTitle": "Capítulo 145",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20145.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 145,
+          "episodeTitle": "Capítulo 146",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20146.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 146,
+          "episodeTitle": "Capítulo 147",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20147.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 147,
+          "episodeTitle": "Capítulo 148",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20148.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 148,
+          "episodeTitle": "Capítulo 149",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20149.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 149,
+          "episodeTitle": "Capítulo 150",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20150.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 150,
+          "episodeTitle": "Capítulo 151",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20151.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 151,
+          "episodeTitle": "Capítulo 152",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20152.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 152,
+          "episodeTitle": "Capítulo 153",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20153.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 153,
+          "episodeTitle": "Capítulo 154",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20154.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 154,
+          "episodeTitle": "Capítulo 155",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20155.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 155,
+          "episodeTitle": "Capítulo 156",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20156.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 156,
+          "episodeTitle": "Capítulo 157",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20157.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 157,
+          "episodeTitle": "Capítulo 158",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20158.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 158,
+          "episodeTitle": "Capítulo 159",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20159.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 159,
+          "episodeTitle": "Capítulo 160",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20160.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 160,
+          "episodeTitle": "Capítulo 161",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20161.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 161,
+          "episodeTitle": "Capítulo 162",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20162.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 162,
+          "episodeTitle": "Capítulo 163",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20163.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 163,
+          "episodeTitle": "Capítulo 164",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20164.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 164,
+          "episodeTitle": "Capítulo 165",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20165.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 165,
+          "episodeTitle": "Capítulo 166",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20166.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 166,
+          "episodeTitle": "Capítulo 167",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20167.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 167,
+          "episodeTitle": "Capítulo 168",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20168.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 168,
+          "episodeTitle": "Capítulo 169",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20169.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 169,
+          "episodeTitle": "Capítulo 170",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20170.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 170,
+          "episodeTitle": "Capítulo 171",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20171.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 171,
+          "episodeTitle": "Capítulo 172",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20172.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 172,
+          "episodeTitle": "Capítulo 173",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20173.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 173,
+          "episodeTitle": "Capítulo 174",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20174.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 174,
+          "episodeTitle": "Capítulo 175",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20175.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 175,
+          "episodeTitle": "Capítulo 176",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20176.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 176,
+          "episodeTitle": "Capítulo 177",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20177.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 177,
+          "episodeTitle": "Capítulo 178",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20178.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 178,
+          "episodeTitle": "Capítulo 179",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20179.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 179,
+          "episodeTitle": "Capítulo 180",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20180.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 180,
+          "episodeTitle": "Capítulo 181",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20181.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 181,
+          "episodeTitle": "Capítulo 182",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20182.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 182,
+          "episodeTitle": "Capítulo 183",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20183.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 183,
+          "episodeTitle": "Capítulo 184",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20184.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 184,
+          "episodeTitle": "Capítulo 185",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20185.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 185,
+          "episodeTitle": "Capítulo 186",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20186.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 186,
+          "episodeTitle": "Capítulo 187",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20187.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 187,
+          "episodeTitle": "Capítulo 188",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20188.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 188,
+          "episodeTitle": "Capítulo 189",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20189.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 189,
+          "episodeTitle": "Capítulo 190",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20190.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 190,
+          "episodeTitle": "Capítulo 191",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20191.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 191,
+          "episodeTitle": "Capítulo 192",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20192.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 192,
+          "episodeTitle": "Capítulo 193",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20193.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 193,
+          "episodeTitle": "Capítulo 194",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20194.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 194,
+          "episodeTitle": "Capítulo 195",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20195.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 195,
+          "episodeTitle": "Capítulo 196",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20196.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 196,
+          "episodeTitle": "Capítulo 197",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20197.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 197,
+          "episodeTitle": "Capítulo 198",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20198.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 198,
+          "episodeTitle": "Capítulo 199",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20199.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 199,
+          "episodeTitle": "Capítulo 200",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20200.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 200,
+          "episodeTitle": "Capítulo 201",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20201.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 201,
+          "episodeTitle": "Capítulo 202",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20202.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 202,
+          "episodeTitle": "Capítulo 203",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20203.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 203,
+          "episodeTitle": "Capítulo 204",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20204.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 204,
+          "episodeTitle": "Capítulo 205",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20205.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 205,
+          "episodeTitle": "Capítulo 206",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20206.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 206,
+          "episodeTitle": "Capítulo 207",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20207.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 207,
+          "episodeTitle": "Capítulo 208",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20208.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 208,
+          "episodeTitle": "Capítulo 209",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20209.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 209,
+          "episodeTitle": "Capítulo 210",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20210.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 210,
+          "episodeTitle": "Capítulo 211",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20211.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 211,
+          "episodeTitle": "Capítulo 212",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20212.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 212,
+          "episodeTitle": "Capítulo 213",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20213.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 213,
+          "episodeTitle": "Capítulo 214",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20214.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 214,
+          "episodeTitle": "Capítulo 215",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20215.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 215,
+          "episodeTitle": "Capítulo 216",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20216.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 216,
+          "episodeTitle": "Capítulo 217",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20217.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 217,
+          "episodeTitle": "Capítulo 218",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20218.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 218,
+          "episodeTitle": "Capítulo 219",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20219.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 219,
+          "episodeTitle": "Capítulo 220",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20220.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 220,
+          "episodeTitle": "Capítulo 221",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20221.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 221,
+          "episodeTitle": "Capítulo 222",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20222.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 222,
+          "episodeTitle": "Capítulo 223",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20223.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 223,
+          "episodeTitle": "Capítulo 224",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20224.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 224,
+          "episodeTitle": "Capítulo 225",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20225.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 225,
+          "episodeTitle": "Capítulo 226",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20226.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 226,
+          "episodeTitle": "Capítulo 227",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20227.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 227,
+          "episodeTitle": "Capítulo 228",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20228.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 228,
+          "episodeTitle": "Capítulo 229",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20229.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 229,
+          "episodeTitle": "Capítulo 230",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20230.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 230,
+          "episodeTitle": "Capítulo 231",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20231.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 231,
+          "episodeTitle": "Capítulo 232",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20232.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 232,
+          "episodeTitle": "Capítulo 233",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20233.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 233,
+          "episodeTitle": "Capítulo 234",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20234.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 234,
+          "episodeTitle": "Capítulo 235",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20235.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 235,
+          "episodeTitle": "Capítulo 236",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20236.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 236,
+          "episodeTitle": "Capítulo 237",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20237.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 237,
+          "episodeTitle": "Capítulo 238",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20238.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 238,
+          "episodeTitle": "Capítulo 239",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20239.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 239,
+          "episodeTitle": "Capítulo 240",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20240.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 240,
+          "episodeTitle": "Capítulo 241",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20241.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 241,
+          "episodeTitle": "Capítulo 242",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20242.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 242,
+          "episodeTitle": "Capítulo 243",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20243.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 243,
+          "episodeTitle": "Capítulo 244",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20244.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 244,
+          "episodeTitle": "Capítulo 245",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20245.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 245,
+          "episodeTitle": "Capítulo 246",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20246.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 246,
+          "episodeTitle": "Capítulo 247",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20247.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 247,
+          "episodeTitle": "Capítulo 248",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20248.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 248,
+          "episodeTitle": "Capítulo 249",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20249.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 249,
+          "episodeTitle": "Capítulo 250",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20250.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 250,
+          "episodeTitle": "Capítulo 251",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20251.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 251,
+          "episodeTitle": "Capítulo 252",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20252.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 252,
+          "episodeTitle": "Capítulo 253",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20253.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 253,
+          "episodeTitle": "Capítulo 254",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20254.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 254,
+          "episodeTitle": "Capítulo 255",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20255.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 255,
+          "episodeTitle": "Capítulo 256",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20256.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 256,
+          "episodeTitle": "Capítulo 257",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20257.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 257,
+          "episodeTitle": "Capítulo 258",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20258.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 258,
+          "episodeTitle": "Capítulo 259",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20259.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 259,
+          "episodeTitle": "Capítulo 260",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20260.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 260,
+          "episodeTitle": "Capítulo 261",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20261.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 261,
+          "episodeTitle": "Capítulo 262",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20262.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 262,
+          "episodeTitle": "Capítulo 263",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20263.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 263,
+          "episodeTitle": "Capítulo 264",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20264.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 264,
+          "episodeTitle": "Capítulo 265",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20265.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 265,
+          "episodeTitle": "Capítulo 266",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20266.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 266,
+          "episodeTitle": "Capítulo 267",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20267.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 267,
+          "episodeTitle": "Capítulo 268",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20268.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 268,
+          "episodeTitle": "Capítulo 269",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20269.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 269,
+          "episodeTitle": "Capítulo 270",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20270.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 270,
+          "episodeTitle": "Capítulo 271",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20271.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 271,
+          "episodeTitle": "Capítulo 272",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20272.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 272,
+          "episodeTitle": "Capítulo 273",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20273.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 273,
+          "episodeTitle": "Capítulo 274",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20274.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 274,
+          "episodeTitle": "Capítulo 275",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20275.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 275,
+          "episodeTitle": "Capítulo 276",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20276.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 276,
+          "episodeTitle": "Capítulo 277",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20277.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 277,
+          "episodeTitle": "Capítulo 278",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20278.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 278,
+          "episodeTitle": "Capítulo 279",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20279.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 279,
+          "episodeTitle": "Capítulo 280",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20280.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 280,
+          "episodeTitle": "Capítulo 281",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20281.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 281,
+          "episodeTitle": "Capítulo 282",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20282.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 282,
+          "episodeTitle": "Capítulo 283",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20283.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 283,
+          "episodeTitle": "Capítulo 284",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia601508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20284.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 284,
+          "episodeTitle": "Capítulo 285",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20285.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 285,
+          "episodeTitle": "Capítulo 286",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20286.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 286,
+          "episodeTitle": "Capítulo 287",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20287.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 287,
+          "episodeTitle": "Capítulo 288",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20288.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 288,
+          "episodeTitle": "Capítulo 289",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20289.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        },
+        {
+          "id": 289,
+          "episodeTitle": "Capítulo 290",
+          "image": "https://www.pngitem.com/pimgs/m/113-1133904_dragon-ball-z-characters-png-dragon-ball-z.png",
+          "video": "https://ia801508.us.archive.org/7/items/dragon-ball-z-onlineespanol-latino/DR4G0N%20B4LL%20Z%20290.ia.mp4",
+          "play": false,
+          "introStart": null,
+          "introEnd": null
+        }
+      ]
     },
     { 
         "id": 2,
