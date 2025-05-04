@@ -3047,95 +3047,83 @@
     },
     { 
         "id": 2,
-        "title": "Solo Leving",
-        "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-        "play": false,
-        "episodes": [
-            { 
-                "id": 0,
-                "episodeTitle": "Capítulo 1",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/qtotaa8814qq?referer=multiplayer.streamhj.top",
-                "play": true
-            },
-            {
-               "id": 1,
-                "episodeTitle": "Capítulo 2",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/l8ddcq5k2zhv?referer=multiplayer.streamhj.top",
-                "play": true 
-            },
-            { 
-                "id": 2,
-                "episodeTitle": "Capítulo 3",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/j8deepuvnroe?referer=multiplayer.streamhj.top",
-                "play": true
-            },
-            {
-               "id": 3,
-                "episodeTitle": "Capítulo 4",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/sgzlw27zjarr?referer=multiplayer.streamhj.top",
-                "play": true 
-            },
-            { 
-                "id": 4,
-                "episodeTitle": "Capítulo 5",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/5uhrpud6ryzp?referer=multiplayer.streamhj.top",
-                "play": true
-            },
-            {
-               "id": 5,
-                "episodeTitle": "Capítulo 6",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/u7qcqsb4bigy?referer=multiplayer.streamhj.top",
-                "play": true 
-            },
-            { 
-                "id": 6,
-                "episodeTitle": "Capítulo 7",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/zq8m02c7745y?referer=multiplayer.streamhj.top",
-                "play": true
-            },
-            {
-               "id": 7,
-                "episodeTitle": "Capítulo 8",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/aqll1z79ll0t?referer=multiplayer.streamhj.top",
-                "play": true 
-            },
-            { 
-                "id": 8,
-                "episodeTitle": "Capítulo 9",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/j79h5qmkbwy1?referer=multiplayer.streamhj.top",
-                "play": true
-            },
-            {
-               "id": 9,
-                "episodeTitle": "Capítulo 10",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/wy9ql8wk0ukm?referer=multiplayer.streamhj.top",
-                "play": true 
-            },
-            { 
-                "id": 10,
-                "episodeTitle": "Capítulo 11",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/c4j84cdn2d46?referer=multiplayer.streamhj.top",
-                "play": true
-            },
-            {
-               "id": 11,
-                "episodeTitle": "Capítulo 12",
-                "image": "https://dw-anime.net/wp-content/uploads/2024/01/Ore_dake_level_up_na_ken.jpg",
-                "iframe": "https://filemoon-nv2xl8an.xyz/gfg/yxk8zpx4hnsa?referer=multiplayer.streamhj.top",
-                "play": true 
-            }
-        ]
+      "title": "One Piece Netflix (Español Latino)",
+      "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_01.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_02.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_03.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_04.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_05.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia600508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_06.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_07.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://www.ecartelera.com/images/noticias/fotos/66100/66155/1.jpg",
+          "video": "https://ia800508.us.archive.org/5/items/full-m-00-n-27/%5BAnimeOnlineNinja%5D_On3_Pi3c3_N3tflix_Latino_08.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
     },
     { 
         "id": 3,
