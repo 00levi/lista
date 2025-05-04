@@ -6139,5 +6139,345 @@
           "introEnd": 80
         }
       ]
+    },
+    {
+        "id" : 14,
+        "title": "Death Note (Español Latino)",
+      "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720404.ca.archive.org/0/items/01-renacimiento/01%20Renacimiento.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia904501.us.archive.org/16/items/02-batalla/02%20Batalla.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia804500.us.archive.org/29/items/03-intercambio/03%20Intercambio.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia804508.us.archive.org/11/items/04-busqueda/04%20B%C3%BAsqueda.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720408.ca.archive.org/0/items/05-diplomacia/05%20Diplomacia.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id":5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia804506.us.archive.org/25/items/06-costura-abierta/06%20Costura%20abierta.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720407.ca.archive.org/0/items/07-tentacion/07%20Tentaci%C3%B3n.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },{
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720303.ca.archive.org/0/items/08-punto-de-vista/08%20Punto%20de%20vista.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia904502.us.archive.org/4/items/09-contacto/09%20Contacto.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia903100.us.archive.org/29/items/10-sospecha/10%20Sospecha.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia904501.us.archive.org/7/items/11-asalto/11%20Asalto.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia802902.us.archive.org/16/items/12-amor/12%20Amor.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 12,
+          "episodeTitle": "Capítulo 13",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720409.ca.archive.org/0/items/13-declaracion/13%20Declaraci%C3%B3n.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 13,
+          "episodeTitle": "Capítulo 14",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720402.ca.archive.org/0/items/death-note-latino-14/Death%20Note%20%5BLatino%5D-14.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 14,
+          "episodeTitle": "Capítulo 15",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia902308.us.archive.org/1/items/death-note-latino-15/Death%20Note%20%5BLatino%5D-15.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+
+          {
+          "id": 15,
+          "episodeTitle": "Capítulo 16",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720401.ca.archive.org/0/items/death-note-latino-16/Death%20Note%20%5BLatino%5D-16.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },{
+          "id": 16,
+          "episodeTitle": "Capítulo 17",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720408.ca.archive.org/0/items/death-note-latino-17/Death%20Note%20%5BLatino%5D-17.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 17,
+          "episodeTitle": "Capítulo 18",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia804509.us.archive.org/9/items/death-note-latino-18/Death%20Note%20%5BLatino%5D-18.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 18,
+          "episodeTitle": "Capítulo 19",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720306.ca.archive.org/0/items/death-note-latino-19/Death%20Note%20%5BLatino%5D-19.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 19,
+          "episodeTitle": "Capítulo 20",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia802306.us.archive.org/23/items/death-note-latino-20/Death%20Note%20%5BLatino%5D-20.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 20,
+          "episodeTitle": "Capítulo 21",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia804504.us.archive.org/16/items/death-note-latino-21/Death%20Note%20%5BLatino%5D-21.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 21,
+          "episodeTitle": "Capítulo 22",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720400.ca.archive.org/0/items/death-note-latino-22/Death%20Note%20%5BLatino%5D-22.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 22,
+          "episodeTitle": "Capítulo 23",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720400.ca.archive.org/0/items/death-note-latino-23/Death%20Note%20%5BLatino%5D-23.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 23,
+          "episodeTitle": "Capítulo 24",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720303.ca.archive.org/0/items/death-note-latino-24/Death%20Note%20%5BLatino%5D-24.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 24,
+          "episodeTitle": "Capítulo 25",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720400.ca.archive.org/0/items/death-note-latino-25/Death%20Note%20%5BLatino%5D-25.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 25,
+          "episodeTitle": "Capítulo 26",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720407.ca.archive.org/0/items/death-note-latino-26/Death%20Note%20%5BLatino%5D-26.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 26,
+          "episodeTitle": "Capítulo 27",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia802304.us.archive.org/27/items/death-note-latino-27/Death%20Note%20%5BLatino%5D-27.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 27,
+          "episodeTitle": "Capítulo 28",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia904509.us.archive.org/14/items/death-note-latino-28/Death%20Note%20%5BLatino%5D-28.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 28,
+          "episodeTitle": "Capítulo 29",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia802303.us.archive.org/19/items/death-note-latino-29/Death%20Note%20%5BLatino%5D-29.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 29,
+          "episodeTitle": "Capítulo 30",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia802305.us.archive.org/30/items/death-note-latino-30/Death%20Note%20%5BLatino%5D-30.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id": 30,
+          "episodeTitle": "Capítulo 31",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720303.ca.archive.org/0/items/death-note-latino-31/Death%20Note%20%5BLatino%5D-31.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 31,
+          "episodeTitle": "Capítulo 32",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia902305.us.archive.org/11/items/death-note-latino-32/Death%20Note%20%5BLatino%5D-32.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 32,
+          "episodeTitle": "Capítulo 33",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720406.ca.archive.org/0/items/death-note-latino-33/Death%20Note%20%5BLatino%5D-33.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },v
+          {
+          "id": 33,
+          "episodeTitle": "Capítulo 34",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia802303.us.archive.org/8/items/death-note-latino-34/Death%20Note%20%5BLatino%5D-34.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+          {
+          "id":34,
+          "episodeTitle": "Capítulo 35",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720404.ca.archive.org/0/items/death-note-latino-35/Death%20Note%20%5BLatino%5D-35.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 35,
+          "episodeTitle": "Capítulo 36",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://ia804500.us.archive.org/10/items/death-note-latino-36/Death%20Note%20%5BLatino%5D-36.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 36,
+          "episodeTitle": "Capítulo 37",
+          "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
+          "video": "https://dn720305.ca.archive.org/0/items/death-note-latino-37/Death%20Note%20%5BLatino%5D-37.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }    
+      ]
     }
 ]
