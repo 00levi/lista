@@ -5503,226 +5503,640 @@
         ]
     },
     {
-      "id": 13,
-      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
+        "id": 13,
+      "title": "Sakura Card Captor (Español Latino)",
+      "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
       "play": false,
       "episodes": [
         {
           "id": 0,
           "episodeTitle": "Capítulo 1",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://908356812.tapecontent.net/radosgw/brDj2Ak6ZrsPbK1/t8GneQ_5fGurWq8TGKGr7HeJmYKk2JrU9b8nnumww4Jlm69M5viBJnsXl_0DgHteQDVYNxL7Rm02b3RmpuY9xqjfyhuG7W3BmVYlhFH5xoUrK0kyKao2VMCpQLMbZFSibM4C3p9Nz2X_tvItJdfiyBvwv2_RsFsEdXGtQcyux7JlGKiPmPb80Wv8j76uTN_nSXpIc-MXLI0UUwfIC3ujsdbCNvy4ILtSJp6qUJ2cge1KVPgP4pu9FK8tbeb86wIY9ajFVms4ITHzfMd5UEH2RveOQ76Qb4tZ-2SEBHUhi7FGD9l1Y5vL6onQ_6CfCIL-EeAdHSfklnLd8kAmMcApKyDzGEGsUDhUQXD5ej1FTAh_kpNQ9VSbA5YaVl0/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+01.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2001%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 1,
           "episodeTitle": "Capítulo 2",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://860567150.tapecontent.net/radosgw/6RZql1zBlwI9RVR/3BZXyoF0ytNhlFn2x9ikgTRiTFz1MNBVNtrB1GmdB9S9XTwCL5CRambvEvghsjOxwUZpdQXFi32dspWYkfvcd9977sjYuvCyT1RqoGFFrjxF7mO6D6GMYEBHPjUP7VuzVpBKoJTy65DbiG_jZ7Kb-0CQYJBqvxfACHXPtCr6mbK5m-9UYYnLPCAg-H7tIa2cp7mOOX8qRIPM-BLPeTG0NUy05_D88GpLgxYphWOwslJb6gOruoJj0RCRAB4eGwLVuHwhhdYVw-0HGJqntYelVAhqwRrswWQZOvtWgqzro72SXaeF6GXnauuS-ZiIJUisGVmjg_d6huh1SYN5sfTIlY2GGdRtoMNpwG55dPRDCGRw3zrq6Aoi6UPNtIM/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+02.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2002%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 2,
           "episodeTitle": "Capítulo 3",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://860134103.tapecontent.net/radosgw/dOGkD2dxDXuG4p/a5M8S15RqYAoTaYoqmBERpUObqIXdQnp5we-IUw50ngfSebE-pmOyqw7lAiyNA8R_lyMMJRlI_Y4jui4-ry4aPeWRspmfqtK4jXOXaAVf99SyoreueqCNpMOy-Mk9MQxIBCdWao8WfFVnkscAJqqFG2weN9WyLUYTuj1YCQnNcKViG33yltnuA_g7vIdk14fq1VZUF1GkkQk1CGQT429Wk-ENSVHpEjqkO_QuJu-ytxLBKCZy_cmlnhWPc5lziSgBJfg1slrHbOdVdxvj0kN4eBX2Ed4TO0DU4C_z3Z28AM6pAUNYewTwS5cPKqGcNbHvU7EzAuSMjCj_ZO7EE7eNRXpbxQgepmdVEZwc0WcJrOJF46km9qqM4xcZEY/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+03.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia601806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2003%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 3,
           "episodeTitle": "Capítulo 4",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2448376735.tapecontent.net/radosgw/MxbmMzxgvOimkZX/Lr9b1Fc6g4Q6xGADHq8-gnN5hK_IcesHSq-l6Ak3iGDVHu6i68E4O8BZMjQ5S-L47eSzo4R4vXTVqQc_SzfjUBeCT84lCc1iJbmQwYJc1U3ouykeSuNdFKuSaWHgg-UiJITRuOhzP-WS3uympF1Hscv_uTpYnF2XEomF7UKo7RdeRcLApRgH_2Dkb-qSpcxOv24vtWAgSULYFqVo5B8W2Pf6D7vNYUq6o02gpYs1dAH2D87pa1yth7soKjUMnGTVUORqFYcqRhYeq5NFwWb74bXlQwaG6rGMbXymAr8lh8h0lSd-MzZO5hxGR4ZiAeawNM51tkXW44zMHTvi7B0pMLX5GhOpFG_HOyedJ6euPxmxm7NkpWOhsnJIONM/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+04.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2004%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 4,
           "episodeTitle": "Capítulo 5",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://860698142.tapecontent.net/radosgw/J0rz0d71kZferD/yjaS12qzoudQZ1EDLpHKqAAjtxG_w-zXlY7f17COMUcvZC_WzY-fg2dWpTtvrQTiDblMBS5luzzvCOnN6WJ2zS1lqm-JNlSmSAUQx5ADYP9vb-smSbwT2WfxhNWd3Dl05aQqZwc2j73gq9Q43BqMkmQrmnkjYFVFTGunlUo4eqAZpxz0MvbtCwSslITwfJbAMD6vFormPln-Ga1yNrGuGkuFZCtWSAwLDydqmzcFU-xoa0DRJS-z2-iPI1DObBDQ6qhCR2IY3dETt7MkFzdLg_MUxAk2HvoqpgGJkJLbhZn4-57IygzoU_-kF8Vj4Tsr11IebBoMICnuvkyYsj7ZhmI13HyP1bBGZ7H_MG3tvyQe44HHAkWU2pqwPNs/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+05.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2005%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 5,
           "episodeTitle": "Capítulo 6",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://872335276.tapecontent.net/radosgw/rJoVlGZljxTbD6L/TDbLGKG17oK0f5MI3xbZn1JgfHixyCJWzUy2MDdoV6XMw6wb1JE0u7OMayhPU2hMoQSAtdbGOZ7YcFT9IIq6WYCAwukOdmeFaZSwz8CEsbh-XXCnglUsbZH-Dvp29jlodXyUO_jRV-EIYGxuyMFcsymtvi751g5aFnsJ1zuHuFD1WAQ2cIpcuURHtOcbZF62L0JVBQ2-C5zUiv8t_TUrbFsP2ArhBZgy_0HOxI0sCEsvleJI7LLDpxSFZlAFzT-JPc-tbWC--wccmsqtPUeids2HvrAhIydRiAkjOxmYt76ZQLsdzR0wqBRJ15V98b_3t7sW_qGlpg7wd6XAB7D1Pvt2mfxl-hB1svlohc7LVYXzGcSCTBwx16MzDL4/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+06.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2006%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 6,
           "episodeTitle": "Capítulo 7",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2448360403.tapecontent.net/radosgw/LODoYv6jB1tWQ9/R6FaBtLQm7HukS-AzH66HaqbSblP3B-VEWLZbMIAI6Fhn9IJvq6skq0W8cL95d4csjumrrN6IyeTlFGu_5KMznwnQRgUPFzp7RQZy_fyfB8nFbXbiQvuCQsfY8Oi_hnWXzB4Hg3hKKqv8mf9GPaYH4pqjWACKeHuSroEQmH7CtNV37nLjbcYntN6dj_XfYM2K6vwuQDLYVcNkPRgeLYBIOEYlhzdemNqF9airjfU_goLf-ArO20ZQL_J4ciTAn24vxNyRiVl9MS_wm1IP4h8cFKw6wdmknQHyOjn0YFderFkRNLXAJxUEmP7m3h1T_5BUJC4i8tvCjjLUX7fs8T2TdlpLFxx_ikfGvQBtYB-L442JM_edSQmlIzSqwo/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+07.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia601806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2007%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 7,
           "episodeTitle": "Capítulo 8",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://858142514.tapecontent.net/radosgw/AwMdk4kLGbCW9B/-MjxDZ7B4TIhjOz3de3skssI1ew-YHbFBy6PsMOlpbVsrclZqDfPmrzuLin6Y84EJ_u0m8WB4sGkCxI3KmZ1ixwNPuEXtpLqhhuEko7uy7TIQvxt5eZ3qTulBzfpLg25_Of6osVv1yhueyhp0-9sPtZTJGVw8m1YmnIo2IYa22jgug6DoeHlPuhDYSM-qT8WU--1qFiNILekZ4BCaqSVsP1Ns8mljHJSjACX7M1Yip0ve48NbtAzxGHlqZUMx8JsMlVbiWo1RFvP9kJeLayKatBrOeZJovPO1utVvEerzqbyCodc4BazDl_jXWKLvdmCw68YvZV6Rnn8J7q3hqhf-r-XmhzdGZV9vsdg3cGr1MP0CqOhGIq85sd8Yjk/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+08.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2008%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 8,
           "episodeTitle": "Capítulo 9",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2453340480.tapecontent.net/radosgw/ZkKlXlPKjOcy2d/HOJQBnemJaDjKbcmtDG80h9yqz4J8wOYUAyx6lyleJq2IRTfx1b8YGqfxWcmELwo0KZ8BFSPPMVkc50s2blmCVtniCRnv1hTI-2AH66u-FhccAgd2O4GH6QxiZLB-U6jNYqOndv-tA7Rqkbi1JoaFL4AOlKKtByhClxovNNDpa_bu8m_98KpjBxb7LEoVK1vU2U_JWc1ufTmz0HF8nxnEWkA9p-_MtoGZJhgf58pPVGpWhJUchYrdHfKju1Bws0FW5c452LmABozp6ARlDH5q_uKxyObar8AckRRioKBMaXGoJk4nepg4urGmnSd7hDRQVgD0aOCr_xHnjXR-LSHBO3OM1GdmW0HGFuh0jzKlA0QfLoH1I181QPFydc/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+09.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2009%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 9,
           "episodeTitle": "Capítulo 10",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2371755316.tapecontent.net/radosgw/DjweqBKxL6CVww/aP8JEX_Kzt0PCl_Pa1LaBWoQighjt72AKHb-PkPiM0FkOIF-EK2myADLdWxVICDwUm2ZLEGVribYNH0za9cWAJnBv-o6WuW5SaSgTJF_xmHr6DKWoigiFwsIKZG-JmsQhyvYtn5P9SwFJMB4nhaDbuyoAeFRkx0xCmo83iEuiJMV1efdjvqSW8-j-gb9C2bz1-zVzaNam17Z0TKHTITP7ze57-yew_T-ARGQwNweGEYTb5tQxKmiFw1gr9WphMZm_R1IzZ2Dhz9yP3IR74BWvD3KaqcMNCS9GhukUe_-Ych79aOAJR1c61p-IVQhk57bkcPtIv3Fts_D4U48MT_YChFJI3znwG3n35XmeU7c9eqDUMilSlZ8xurCkqI/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+10.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2010%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 10,
           "episodeTitle": "Capítulo 11",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://861658962.tapecontent.net/radosgw/0deRAGxMjaibodL/koXMAGuZo-djUZePLxfHFFlsMx_iN6DliZC7zEIsFgGZ_NXjutaqC4_xAvDjActmoVZXcaFQfOQkC6meYNMKXt88NNB11mqCuf5RYEfqz-qFfno0HLmCTQ85QG38AKhd3mwXMfhV7UHJYN21oJN0fILGBdG7LHbroXlBt8PwvLWYHOfKSQsVZw2ru5lUmPqftPkUYospN8bxBaE3evNAr_Nys4Y7pkJuMEcAHRmLklyO5XvWDXfmfHADCbtJBoKDUAni_EW3cKJoeFM7k5lhW1Ro6v0c8bk3G2G1ZIaaVCQtBLZDf874t7wFfBynORvTXLhFLazkNO4HwuhIjrRnriuQlQd4_DBl2jmyQFC5rIy245_HR7WkNw_AN64/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+11.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2011%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 11,
           "episodeTitle": "Capítulo 12",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://860700784.tapecontent.net/radosgw/aYPd8WxObacJa1/z-7zxyejMYnebjGUtyM4eFVg2-vQrmaX1NT0ypH8rJfGOds2twHV_nwjDRr2vIgKasbjEgeD2Ss68NQJVISsIhP_QtH7lgLTfSXW3u3iKHWYHA2HcVP6k9jB3KLULLOtFcBXhFnljtNvMnMyXMXnCdQoBXHwScZHyVDBoFxJFVQGmwDUetwr5T2lMJCqi7bfDSrgK8JabmFEkoTUnw41rd5zSUJ0qBsO0Jy-pi9-7MK_8vIMsS1unY_YCso85jaIP-CT3PRQfb8j5if3UjbeNbsaKORRwD4vRc8x98_qeaMp57vFor8GkrEJvz4d2sGJsVyraleuJBKoSHxzQDqzdu8kCY_6JNXExyWZ2YBZJivuLIXAceE8-0b7vPQ/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Latino+12.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2012%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 12,
           "episodeTitle": "Capítulo 13",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://868419168.tapecontent.net/radosgw/G2xrzlBj8xF9g3/gtG8f18278TwQe74sRf3TvY7kIovPcQPxUOafHxzCwtczgrgoAW1FvkIeFijr2RwedBWPSudNk52aldswQr6tXxfMsoLWtnjY5iWn1z6Rz3qQtITgBqMmhxUHIEN2UcYUX_XSa_E1b9AQ3x-NkFSXfNCUBwGVnK5Ba9UceR1dkXQ_qs8IA8oHXha5dmSXJYHhhcFjCYnLEkwyxrraELu32cALXKb84B4xZ9OxtLGdAroTxe7_aVnidY2e71LOisW2xr5qgPa985TxWoVoUoGDQHSU07TIcag4kER7sVSARx77l2GHEBy_P7lPQLBAZQrO5r4FYmAeCL70PxsvZjT9aFc1qfuB612dKd5jZHgxHBe4SajhFaD4KXxedk/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+13.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2013%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 13,
           "episodeTitle": "Capítulo 14",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://908371212.tapecontent.net/radosgw/gg487JWoqoSq6ak/yAlz5uYymYUynh1HBvu0PFtPDRw00kCfLcfUPgOHmZ8HKFKHC95lZInc-zdxLmGv56JtzKX_zyznR_6Q056aaxee5irPzEU8WrpMFTPNMMuuv8Utl4Qsj89_LHswPIfA_DT0X02Zo3P0DgSSmDpc87OGGqD1koOJussbIYvXY6NprjvZzS68TfAPRClLaWBeTDZB-HoJHRVLj4QK61I0xRXKTJpS1eWBUagmPf_D-gki9tpodPia8aHgK3pRmpCvt7v2FtFrow_7lWA6Cr8_fcbKfWZvZKQGS2wj0RFzfvgmB1HmzwY-vUNZuU8vV7CV4iJeiOKc-_ERQ_jvC-vMcmGekxmfsMocdlz9KnBBsaa8d8LX5SkI285rVHM/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+14.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2014%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 14,
           "episodeTitle": "Capítulo 15",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://861476166.tapecontent.net/radosgw/yVRmx7q9qgT16kz/X3J2k_M-zC5hM79t4lVHjiMRoSRDylW97nMMdPP94z4yqTVbUpDTVH70QOujTw5WBy-aGFA10jqu7UhNMBCU-tS29iiWb0QgkuBFwk6lZeUJp71_xBksdZz1lb6ms29Rokeyj4HOORW21euMSSJqkibt8Fct0qhpRbbD5B22gCe-Kg41io06w5Vbp8ZJUM85WyGzabrKysJjatkOHRsC1quTb10p4b9u1nIjP8ScWyC3KRxFylSXRaZFeLH8xIvV5GGQldwJ9lCl529K88I20Ws4h5Zv1El4Iz8BdVPkpsaWi6xG1gGiIkbWtJSLhFaeUfugCsQCdtEu1DiVymrhdKsI4IN-JHYyBNpHHG3JzRehbLlJNIYzFFI7Dqg/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+15.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2015%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 15,
           "episodeTitle": "Capítulo 16",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://860713988.tapecontent.net/radosgw/BQmKWKOg3vHyp7Y/Da7rbel_IWlZ9WoDV3MThNKn7M4dXuCLnyL-Hx8iNEZDfv_m80tYBv6m_lUpoeLHmKgfqdGde2HuqZfeWGt21diX96qDNR-_557MD0GthqtG7B5HOAO0cX5MF1pWnZAS1x9CeLDYkGbP8KFVX99oX6NVsrgrm-dCl6EhLHShUYGxMLWD3Q41a3h6dnFNaeNRAitvzhX3_pYwZ-XqF0nYvenF6Oz8Qtq7NxEpRR1-wGLXsy6zTP8mF9mlIEbaEyJlq1yk0xTGf7zOdO6pJx4X-rHLrFrXByG0kJui9jz9gNnP8PX0tUilfI4aLPldFoXIbvhA7CXh8L6rMObm-kWncdBa7Ob67RC71piWXL7YmYfNh3skZ4d89eH1EKI/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Season+2+16.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2016%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 16,
           "episodeTitle": "Capítulo 17",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://861520518.tapecontent.net/radosgw/WGovLKWW43CbvaP/_B-fz39bMGy4jUCODTXtiqChvUpjLStVHBbPbLc2rU2YVDMv7HKwk2MBKC-ka5Qjny_SKdbM2jW8QFU9Hq_DyVNHCZhzZdN2OLk35D5xkvMJQbXUbqRd3MFzEmUCpiGeYFpYq5gJTBVRcXFSn99VOT80qJ28SKtc_QEX8hcsVcyrbi7M_w5-r9TTfZ__xqdd5SGMKH9XDYWNX1ZVhcp1lRUOZsKtVCv5k1LTeQS-e4y1e2CVQ6u9x1hIXg1n0OgqyzCSq0wY6H4bpxPnkXet3OiAgPvVV_qMbnJzDppQh9EuVOySlF8YYlDDsIZ_p1qdXdhNUMbLuGACWexc880CRiGES6eEvXYoEy1u9RbzrjEUlDlhB4SbkHlvTyI/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+17.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2017%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 17,
           "episodeTitle": "Capítulo 18",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2448409167.tapecontent.net/radosgw/egPMKMgyyzhYG3Y/UDmPNqca78lfq9fX_fGtMx8HjVWm5E07Dh07QjwrywixWNASeKuPJGG8koeig14XcT8C_Lh0P1e5xg2q9AYrgXwDbrODIcHikEfdzbQrrJ8_exGK5_zxB-bqk6ARzV4d6f3RnJv9NJbecqKdLGwn6VRRXvgyY9XC2IT3NMaGnHXIdOXiT43bP2s71P759HGOWLfMCc7Ob7sTaNkB_O0eZDZKAgYuAKjGCh_ka4PVccVUTvKnaHlmlHTWkRj1kZGTAT2VFfm6GgGRcGLjDDcPLo3d4RdXq9FuUMjEfiN0v-8XSYZByPwjwcg26UtF5K08irrr6_isCxxVwWkeXEnML-U-ByvL__lfIqNTvVz4jzUw9EHjr1yUQNhtxCg/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+18.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2018%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 18,
           "episodeTitle": "Capítulo 19",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2448409167.tapecontent.net/radosgw/Yg2kRaW1eYivbrO/XxYePhPbUJtmBfFNZxfJlNo8-WXkJJRTyBn3CisD18QjU6iFsfxuDdT3IrpKy7ST2uEP5caoTlhOjMSjBJIPmDnlHX6-1B-GJ728FvtBTc48mZvG16OcSsMPt3PWRdL_ci10Q2s9arZ8n5ewbuZEIYFVjrlWFxtqb80bxz5DKaloW82X-XEEJf0_zzCkEGfUW7sHA7IzgBcyS6rtlt3d5Uiv4tf5DLw0JZUbgCvHpH1rkjhzoEndntSpbnTqCJvXJrlVxoUVU_n4nMsTsuUF9HCvLqwrz8_wTCT2yRU6UGLNSNki1bh0YJ68O4yYez7nmprAIh56rNNgSBK9FjUwAkMKTGKwT2nd2NbhShvy4NLM6ihWqfVxIgnIBq8/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+Season+2+19.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2019%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 19,
           "episodeTitle": "Capítulo 20",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2371821716.tapecontent.net/radosgw/bGp7bBp38YiPgW8/4rXaFl-ihfiuIJRSz8B_Kseum-BXrsICR9laH6M7WSWX3QdiidlbJxATvublwHnLL2wFDdY1PPk6eyXzVptdXLtzPp1pLOMgoT-ProrqtD4rxda3r5p3EuUON2GwvS8pahRxm0Tw696Q5GKq02Q1ni8T_ttH0RxBgdf9ipDZ8zytwJu8Sg7elhdE5fQC_dHEIZPa0Q7dC_IdIMCxYpZH1giejTM0H3JAlkkcFc1qWChvFBoRixLXA8N7FjcHV9dYmEqI9Xpb9by18vr2Tuv2AGOLUYMY9a1yRNxgfTdu0OYYdYaOuQ9wUKSTCJtYJ4Eh1T_wGd1lFvtA6FU9-e21CCbIJloNrj73Y4VEWgwPsYjqNVXwsyeY9bxksmo/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+20.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2020%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 20,
           "episodeTitle": "Capítulo 21",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://861520052.tapecontent.net/radosgw/4x4Ow6yK2xuKqlj/ay352-kBtUlbJ2y5mHnZ1pC_Znwn14ITlkAwR80XGT7W7XJdHhvxR3wDRxQXt01gtGg_S4LS6M4TrU4rbelaZBVu5UgmJ3ELz9m0AxwFGlMKl9WMlBN5K4hic5Awaxgmu3hZomQjEoF4l-5OpeSGdGUiYuoOWyDAX2yQvwZz5i9a74cmwuIdwxffYW0bIZ6ScqpYFNe3HNpQFaqh5rOjBr4zQyPg0hPRV79fh516PG7ndh_2gC4YR55ygNsT_vE5jyLjSJ_LIWUm2h3-LB-dbXjXz6RF6EDetH2tH2WeslPZMFk8ELYUzpBXTUsZryhNWBAm-uKeXrBBqJjaOn7l275RomGq19-b63cfja4zhqmCzu_4zBXBUa1D6rA/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+21.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2021%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 21,
           "episodeTitle": "Capítulo 22",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2371755320.tapecontent.net/radosgw/g3q9LxwZDoT4bL/If0DbXREAN7hKYG2PDJptekyaUcxLIUdBKb7vohlVzDqieBQ9OJVBcCue7BG1obMYRY0aLVxmO_UJuahBeAm6P56YF2IQIqCOUQmxtb4p3K0f64W0oZDeswLMObv58QqOUM9uOtBw04rHe_wbBJHtQxuUVypWWBEpnyrkf7TTlcflavFlL-yeSiWV50UvHtqyTuUqKzLMuQ8mxBvsYP02ketWZDMTxkNCPqqRXQY3_ZU6q2oA7O7J7u_vgmsE4Ep2HYMlYPP_JtfoMvl9-l3dx0V8A2h9gedsWwOKVB3LAgmPYOjbrbZxY1vbDviSszVDyfd6-0R_fdhaY7NsBoKzMFMq5tS8OQlb6sokIDyn8ZvkMWTibNza0fSfnQ/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+22.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2022%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 22,
           "episodeTitle": "Capítulo 23",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://2371755319.tapecontent.net/radosgw/09eWQlqyDbCKZO/zOFW1UGfjzxqnb5FNHmDZpGGDxqSPGMNs5lXL8VBxKm3RGJJgca0OMMH5sKBdTWWECVK980PnxhIjS7NcXp8b9nuHcFTWu5KAv7VBnQ1upCRvegTVt4l2bzRlHR29gXsCeiTKXDEMczoKebQJtYyTXYYzVRQD-0s5lcKSjWrwcSy_NXXjlNLPVWGd5EQZPx3VhXlmI8jGfzAZLwr285AUL5cobf8tZJO5KYm8Krw0KniUHNdB2DNETReA3YwSuhIlBO4aWm61MxuB1x0Yr19P7HpBIjh8gzyscnW9g3eiOuYdrZbFsusKvodQq9_Nb8mkkpq4q5h8LRqrj3SfPaL1tl2qnFPljP9tS9EbPd9KVzjfmAhnFhlKvQIbXU/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+23.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2023%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
         },
         {
           "id": 23,
           "episodeTitle": "Capítulo 24",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png/800px-Kimi_no_Koto_ga_Dai_Dai_Dai_Dai_Daisuki_na_100-nin_no_Kanojo.png",
-          "video": "https://860615386.tapecontent.net/radosgw/ZxVY4vqrdGfqVx1/MMb8maPoPp3CU_eR-JeeCPlcx3wW-SvWguycmvTYwSJ_iBAfsgP15IGQ2pjA4EVX5ADl96_Lav_YAlaeqZu3dVTk1Y3Tw5gzJnrg8tp1v96wGSOcbOZoEG2Tk5k4URvFsLPJ4g9Pawg0TexUPgd4Bl0ryJLUoQ48hBvYULGXB-bCl30iBdLP-A7ow8vlu46Y7uGdI8V9zVNtSkhWb1J6-pgXy_XIhGwew0YfbUIhKFcymDojrUzKXN4sO78tBbC7N0lFGvbhdyKft-lAa08H2kJAclKIfavk_qD8BHPuE1_uX3sFYi-e53q2KpJ8rtqQ97fsczCRSr5ieVizKVo6Bl67L08gzh4lfLtdPX6yIZuDtWWWmE1U_eZmSRk/%5BAnimeOnlineNinja%5D+The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+REALLY+Love+You+24.mp4",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2024%20en%20Espa%C3%B1ol%20latino.ia.mp4",
           "play": false,
-          "introStart": null,
-          "introEnd": null
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 24,
+          "episodeTitle": "Capítulo 25",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2025%20en%20Espa%C3%B1ol%20latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 25,
+          "episodeTitle": "Capítulo 26",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2026%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 26,
+          "episodeTitle": "Capítulo 27",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2027%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 27,
+          "episodeTitle": "Capítulo 28",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2028%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 28,
+          "episodeTitle": "Capítulo 29",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2029%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 29,
+          "episodeTitle": "Capítulo 30",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2030%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 30,
+          "episodeTitle": "Capítulo 31",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2031%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 31,
+          "episodeTitle": "Capítulo 32",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia601806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2032%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 32,
+          "episodeTitle": "Capítulo 33",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2033%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 33,
+          "episodeTitle": "Capítulo 34",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2034%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 34,
+          "episodeTitle": "Capítulo 35",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2035%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 35,
+          "episodeTitle": "Capítulo 36",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2036%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 36,
+          "episodeTitle": "Capítulo 37",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2037%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 37,
+          "episodeTitle": "Capítulo 38",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2038%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 38,
+          "episodeTitle": "Capítulo 39",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2039%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 39,
+          "episodeTitle": "Capítulo 40",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2040%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 40,
+          "episodeTitle": "Capítulo 41",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2041%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 41,
+          "episodeTitle": "Capítulo 42",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2042%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 42,
+          "episodeTitle": "Capítulo 43",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2043%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 43,
+          "episodeTitle": "Capítulo 44",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2044%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 44,
+          "episodeTitle": "Capítulo 45",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2045%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 45,
+          "episodeTitle": "Capítulo 46",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2046%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 46,
+          "episodeTitle": "Capítulo 47",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2047%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 47,
+          "episodeTitle": "Capítulo 48",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2048%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 48,
+          "episodeTitle": "Capítulo 49",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2049%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 49,
+          "episodeTitle": "Capítulo 50",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia601806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2050%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 50,
+          "episodeTitle": "Capítulo 51",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2051%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 51,
+          "episodeTitle": "Capítulo 52",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2052%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 52,
+          "episodeTitle": "Capítulo 53",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2053%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 53,
+          "episodeTitle": "Capítulo 54",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2054%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 54,
+          "episodeTitle": "Capítulo 55",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2055%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 55,
+          "episodeTitle": "Capítulo 56",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2056%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 56,
+          "episodeTitle": "Capítulo 57",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2057%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 57,
+          "episodeTitle": "Capítulo 58",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2058%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 58,
+          "episodeTitle": "Capítulo 59",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2059%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 59,
+          "episodeTitle": "Capítulo 60",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2060%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 60,
+          "episodeTitle": "Capítulo 61",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2061%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 61,
+          "episodeTitle": "Capítulo 62",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2062%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 62,
+          "episodeTitle": "Capítulo 63",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2063%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 63,
+          "episodeTitle": "Capítulo 64",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2064%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 64,
+          "episodeTitle": "Capítulo 65",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2065%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 65,
+          "episodeTitle": "Capítulo 66",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2066%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 66,
+          "episodeTitle": "Capítulo 67",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2067%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 67,
+          "episodeTitle": "Capítulo 68",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2068%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 68,
+          "episodeTitle": "Capítulo 69",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://dn720001.ca.archive.org/0/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2069%20en%20Espa%C3%B1ol%20latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
+        },
+        {
+          "id": 69,
+          "episodeTitle": "Capítulo 70",
+          "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
+          "video": "https://ia801806.us.archive.org/28/items/sakura-card-captor-en-espanol-latino/Sakura%20Card%20Captor%20Episodio%2070%20en%20Espa%C3%B1ol%20latino%20%28Final%29.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 80
         }
       ]
     }
