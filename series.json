@@ -6722,5 +6722,31 @@
           "introEnd": 0
         }
       ]
+    },
+    {
+        "id" : 16,
+      "title": "Hulk vs ... (Español Latino)",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Hulk vs Thor",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
+          "video": "https://ia804606.us.archive.org/5/items/4-5769455918341163614/Hulk_vs_thor_espa%C3%B1ol.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Hulk vs Wolverine",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
+          "video": "https://ia804606.us.archive.org/5/items/4-5769455918341163614/4_5769455918341163614.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
     }
 ]
