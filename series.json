@@ -6208,7 +6208,8 @@
           "play": false,
           "introStart": 0,
           "introEnd": 0
-        },{
+        },
+          {
           "id": 7,
           "episodeTitle": "Capítulo 8",
           "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
@@ -6289,7 +6290,8 @@
           "play": false,
           "introStart": 0,
           "introEnd": 0
-        },{
+        },
+        {
           "id": 16,
           "episodeTitle": "Capítulo 17",
           "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
@@ -6441,8 +6443,8 @@
           "play": false,
           "introStart": 0,
           "introEnd": 0
-        },v
-          {
+        },
+        {
           "id": 33,
           "episodeTitle": "Capítulo 34",
           "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
