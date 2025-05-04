@@ -6480,5 +6480,247 @@
           "introEnd": 0
         }
       ]
+    },
+    {
+        "id": 15,
+      "title": "Neon Genensis Evangelion (Español Latino)",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia904602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_01%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia904602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_02_%40Trapo2019_Universo_Anime_.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia904602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_03_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_04_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia904602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_05_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_06_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_07_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_08_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_09_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_10_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_11_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_12_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 12,
+          "episodeTitle": "Capítulo 13",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia904602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_13_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 13,
+          "episodeTitle": "Capítulo 14",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_14_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 14,
+          "episodeTitle": "Capítulo 15",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_15_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 15,
+          "episodeTitle": "Capítulo 16",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_16_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 16,
+          "episodeTitle": "Capítulo 17",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_17_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 17,
+          "episodeTitle": "Capítulo 18",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_18_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 18,
+          "episodeTitle": "Capítulo 19",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://dn720307.ca.archive.org/0/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_19_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 19,
+          "episodeTitle": "Capítulo 20",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_20_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 20,
+          "episodeTitle": "Capítulo 21",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_21_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 21,
+          "episodeTitle": "Capítulo 22",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_22_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 22,
+          "episodeTitle": "Capítulo 23",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_23_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 23,
+          "episodeTitle": "Capítulo 24",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia904602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_24_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 24,
+          "episodeTitle": "Capítulo 25",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_25_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 25,
+          "episodeTitle": "Capítulo 26",
+          "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
+          "video": "https://ia804602.us.archive.org/15/items/tpo-neon-genesis-evangelion-05-trapo-2019-universo-anime/Evangelion%20Spanish%20dubs%2FTPO_Neon_Genesis_Evangelion_26_%40Trapo2019_Universo_Anime.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
     }
 ]
