@@ -3586,18 +3586,146 @@
     },
     { 
         "id": 7,
-        "title": "Los increibles 2",
-        "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/313EC7B86774D7DC201FC2010AC5433871FB66BADF5596B0E60ECC9A2B5F9C85/scale?width=1200&aspectRatio=1.78&format=webp",
-        "play": true,
-        "episodes": [
-            { 
-                "id": 0,
-                "episodeTitle": "Los increibles 2",
-                "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/313EC7B86774D7DC201FC2010AC5433871FB66BADF5596B0E60ECC9A2B5F9C85/scale?width=1200&aspectRatio=1.78&format=webp",
-                "iframe": "https://filemoon.sx/e/yok611sh6xs8/107236--d9ce323e-b17c-4652-9e78-11e0264b25af--BK--vgmz--2057621-filemoon.mp4",
-                "play": true
-            }
-        ]
+      "title": "Record of Ragnarok (Español Latino)",
+      "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia600707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/01%20-%20%C2%A1El%20bien%20contra%20el%20mal%21%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 87,
+          "introEnd": 180
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/02%20-%20El%20indomable%20dios%20de%20la%20guerra%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 127,
+          "introEnd": 210
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia600707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/03%20-%20El%20nacimiento%20de%20un%20monstruo%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 100
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/04%20-%20El%20%C3%BAltimo%20trabajo%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 46,
+          "introEnd": 136
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia600707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/05%20-%20R%C3%A9quiem%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 48,
+          "introEnd": 138
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/06%20-%20Intereses%20encontrados%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 96
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia600707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/07%20-%20Los%20cien%20sellos%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 147,
+          "introEnd": 237
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/08%20-%20En%20la%20cima%20de%20los%201116%20dioses%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 50,
+          "introEnd": 140
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/09%20-%20Resonancia%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 50,
+          "introEnd": 140
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/10%20-%20Al%20borde%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 44,
+          "introEnd": 134
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia600707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/11%20-%20Sexta%20ronda%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 100
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia600707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/12%20-%20Zero%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 70,
+          "introEnd": 160
+        },
+        {
+          "id": 12,
+          "episodeTitle": "Capítulo 13",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/13%20-%20La%20pubertad%20m%C3%A1s%20fuerte%20de%20la%20historia%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 13,
+          "episodeTitle": "Capítulo 14",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia600707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/14%20-%20La%20leyenda%20del%20inframundo%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 160,
+          "introEnd": 250
+        },
+        {
+          "id": 14,
+          "episodeTitle": "Capítulo 15",
+          "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
+          "video": "https://ia800707.us.archive.org/29/items/10-al-borde-latino-dw-anime.net-720p-sd/15%20-%20El%20camino%20de%20la%20luz%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
     },
     {
         "id": 8,
