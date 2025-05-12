@@ -3584,8 +3584,124 @@
             }
         ]
     },
-    { 
+    {
         "id": 7,
+      "title": "Record of Ragnarok Temporada 1 (Español Latino)",
+      "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://dn720403.ca.archive.org/0/items/shuumatsu-01.lat.-anime-yt.es/Shuumatsu-01.lat.AnimeYT.es.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://dn721906.ca.archive.org/0/items/shuumatsu-02.lat.-anime-yt.es/Shuumatsu-02.lat.AnimeYT.es.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia800101.us.archive.org/0/items/shuumatsu-03.lat.-anime-yt.es/Shuumatsu-03.lat.AnimeYT.es.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/4_Shuumatsu-04.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/5_Shuumatsu-05.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/6_Shuumatsu-06.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/7_Shuumatsu-07.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/8_Shuumatsu-08.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/9_Shuumatsu-09.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/10_Shuumatsu-10.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/11_Shuumatsu-11.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/12_Shuumatsu-12.lat.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 90
+        }
+      ]
+    },
+    { 
+        "id": 8,
       "title": "Record of Ragnarok Temporada 2 (Español Latino)",
       "image": "https://dw-anime.net/wp-content/uploads/2023/02/Shuuvalk2LAT.jpg",
       "play": false,
@@ -3728,7 +3844,7 @@
       ]
     },
     {
-        "id": 8,
+        "id": 9,
       "title": "Ranma 1/2 (Español Latino)",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/6fbddabf2cd58edab98508951ae5d56c72b803aa7847e1cdaf88fe044c932aec.png",
       "play": false,
@@ -5185,7 +5301,7 @@
       ]
     },
     { 
-        "id": 9,
+        "id": 10,
         "title": "cyberpunk edgerunners latino",
         "image": "https://preview.redd.it/cyberpunk-edgerunners-wallpapers-3440-x-1440-v0-lgizvmojlfub1.png?width=640&crop=smart&auto=webp&s=c59398633f4f3dd1adf037f0e776d53ef53b221c",
         "play": true,
@@ -5283,7 +5399,7 @@
         ]
     },
     { 
-        "id": 10,
+        "id": 11,
         "title": "Konosuba latino",
         "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
         "play": true,
@@ -5390,7 +5506,7 @@
         ]
     },
     { 
-        "id": 11,
+        "id": 12,
         "title": "Konosuba temp 2 latino",
         "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
         "play": true,
@@ -5506,7 +5622,7 @@
         ]
     },
     { 
-        "id": 12,
+        "id": 13,
         "title": "Konosuba temp 3 latino",
         "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/konosuba-season-3-cover_15f5.png",
         "play": true,
@@ -5631,7 +5747,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 14,
       "title": "Sakura Card Captor (Español Latino)",
       "image": "https://sm.ign.com/t/ign_latam/screenshot/default/sakura-cc_73mj.1280.jpg",
       "play": false,
@@ -6269,7 +6385,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Death Note (Español Latino)",
       "image": "https://wallpapers.com/images/hd/death-note-4k-3ur84blvgsr0i5q1.jpg",
       "play": false,
@@ -6610,7 +6726,7 @@
       ]
     },
     {
-        "id": 15,
+        "id": 16,
       "title": "Neon Genensis Evangelion (Español Latino)",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/7031829c13e2913ed8a3bfb71abdb8ed79ea1284c177718fb5343a183aadd9b3._UR1920,1080_.png",
       "play": false,
@@ -6852,7 +6968,7 @@
       ]
     },
     {
-        "id" : 16,
+        "id" : 17,
       "title": "Hulk vs ... (Español Latino)",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/86bdaff754999d42ce51a4318765ce93f2413d4ba51d5412b45d1f31366099fe.jpg",
       "play": false,
@@ -6878,7 +6994,7 @@
       ]
     },
     {
-        "id": 17,
+        "id": 18,
       "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru (Español Latino)",
       "image": "https://dw-anime.net/wp-content/uploads/2021/10/Sekai-Saikou-no-Ansatsusha.jpg",
       "play": false,
