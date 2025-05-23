@@ -7106,6 +7106,8 @@
           "play": false,
           "introStart": 38,
           "introEnd": 122
+        }
+          ]
         },
         {
             "id": 19,
@@ -7257,8 +7259,6 @@
               "introStart": 0,
               "introEnd": 0
             }
-          ]
-        }
       ]
     }
 ]
