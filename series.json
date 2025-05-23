@@ -7106,6 +7106,158 @@
           "play": false,
           "introStart": 38,
           "introEnd": 122
+        },
+        {
+            "id": 19,
+          "title": "Malcolm El De En Medio Temporada 1 (Español Latino)",
+          "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+          "play": false,
+          "episodes": [
+            {
+              "id": 0,
+              "episodeTitle": "Capítulo 1",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E01.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 1,
+              "episodeTitle": "Capítulo 2",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E02.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 2,
+              "episodeTitle": "Capítulo 3",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E03.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 3,
+              "episodeTitle": "Capítulo 4",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E04.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 4,
+              "episodeTitle": "Capítulo 5",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E05.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 5,
+              "episodeTitle": "Capítulo 6",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia600106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E06.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 6,
+              "episodeTitle": "Capítulo 7",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E07.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 7,
+              "episodeTitle": "Capítulo 8",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia600106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E08.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 8,
+              "episodeTitle": "Capítulo 9",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E09.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 9,
+              "episodeTitle": "Capítulo 10",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia600106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E10.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 10,
+              "episodeTitle": "Capítulo 11",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E11.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 11,
+              "episodeTitle": "Capítulo 12",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E12.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 12,
+              "episodeTitle": "Capítulo 13",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia600106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E13.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 13,
+              "episodeTitle": "Capítulo 14",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E14.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 14,
+              "episodeTitle": "Capítulo 15",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia600106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E15.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            },
+            {
+              "id": 15,
+              "episodeTitle": "Capítulo 16",
+              "image": "https://i.pinimg.com/736x/d9/62/96/d962961d5597c1175471abd017576349.jpg",
+              "video": "https://ia800106.us.archive.org/2/items/malcolm-el-de-en-medio-s-01_202412/Malcolm%20El%20De%20En%20Medio%20S01E16.mp4",
+              "play": false,
+              "introStart": 0,
+              "introEnd": 0
+            }
+          ]
         }
       ]
     }
