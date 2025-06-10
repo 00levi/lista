@@ -29,23 +29,23 @@
     },
     {
         "id": 4, 
-        "title": "espn",
-        "image": "https://www.cablevisionhd.com/imge/espn.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn.html",
+        "title": "Star Wars Episodio 1",
+        "image": "https://pics.filmaffinity.com/Star_Wars_Episodio_I_La_amenaza_fantasma-408550461-large.jpg",
+        "video": "https://ia800602.us.archive.org/17/items/3tr-3ch-4sun/3tr3ch4sun.mp4",
         "play": false
     },
     {
         "id": 5, 
-        "title": "espn2",
-        "image": "https://www.cablevisionhd.com/imge/espn2.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn.html",
+        "title": "Star Wars Episodio 2",
+        "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4fc46191-e131-4688-97bc-dc204f157c67/compose?aspectRatio=1.78&format=webp&width=1200",
+        "video": "https://ia800908.us.archive.org/17/items/3tr-3ch-4str-1/3tr3ch4sdu0.mp4",
         "play": false
     },
     {
         "id": 6, 
-        "title": "espn3",
-        "image": "https://www.cablevisionhd.com/imge/espn3.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/espn3.html",
+        "title": "Star Wars Episodio 3",
+        "image": "https://oem.com.mx/elsoldepuebla/img/22637797/1744231175/BASE_LANDSCAPE/480/image.webp",
+        "video": "https://ia800908.us.archive.org/17/items/3tr-3ch-4str-1/3tr3ch4str1.ia.mp4",
         "play": false
     },
     {
