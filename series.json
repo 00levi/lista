@@ -8871,5 +8871,353 @@
           "introEnd": 0
         }
       ]
+    },
+    {
+      "id": "28",
+      "title": "Novia De Alquiler (Español Latino)",
+      "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia600302.us.archive.org/29/items/03-nov-alqu-latino/01-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/02-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia600302.us.archive.org/29/items/03-nov-alqu-latino/03-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/04-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/05-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/06-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/07-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia600302.us.archive.org/29/items/03-nov-alqu-latino/08-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/09-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/10-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia800302.us.archive.org/29/items/03-nov-alqu-latino/11-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://ramenparados.com/wp-content/uploads/2022/06/RentAGirlfriendS02000-300x424.jpg",
+          "video": "https://ia600302.us.archive.org/29/items/03-nov-alqu-latino/12-nov%20alqu%20Latino.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Novia De Alquiler 2 (Español Latino)",
+      "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/01%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/02%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/03%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/04%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/05%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/06%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/07%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/08%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://dn721801.ca.archive.org/0/items/Novi209latfs4df5asdf4dsfa/Novi209latfs4df5asdf4dsfa.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia601509.us.archive.org/23/items/Novi210latfsd1f541ds6fa1sdf6/Novi210latfsd1f541ds6fa1sdf6.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/11%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://cdn.beahero.gg/2020/09/Rent-A-Girlfriend-segunda-temporada-750x375.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/12%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Novia De Alquiler 2 (Español Latino)",
+      "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/01%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/02%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/03%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/04%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/05%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/06%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/07%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia800909.us.archive.org/20/items/05-nov-alqu-s-2-latino/08%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://dn721801.ca.archive.org/0/items/Novi209latfs4df5asdf4dsfa/Novi209latfs4df5asdf4dsfa.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia601509.us.archive.org/23/items/Novi210latfsd1f541ds6fa1sdf6/Novi210latfsd1f541ds6fa1sdf6.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/11%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://ramenparados.com/wp-content/uploads/2023/02/Rent-A-Girlfriend-S3-key.jpg",
+          "video": "https://ia600909.us.archive.org/20/items/05-nov-alqu-s-2-latino/12%20-%20nov%20alqu%20%20S2%20Latino.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
     }
 ]
