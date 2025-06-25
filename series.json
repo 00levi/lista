@@ -15554,5 +15554,229 @@
           "introEnd": 0
         }
       ]
+    },
+    {
+      "id": "32",
+      "title": "Darling in the Franxx (Español Latino)",
+      "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-01.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-02.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-03.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-04.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-05.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-06.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-07.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-08.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-09.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-10.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-11.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-12.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 12,
+          "episodeTitle": "Capítulo 13",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-13.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 13,
+          "episodeTitle": "Capítulo 14",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-14.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 14,
+          "episodeTitle": "Capítulo 15",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-15.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 15,
+          "episodeTitle": "Capítulo 16",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-16.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 16,
+          "episodeTitle": "Capítulo 17",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-17.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 17,
+          "episodeTitle": "Capítulo 18",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-18.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 18,
+          "episodeTitle": "Capítulo 19",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-19.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 19,
+          "episodeTitle": "Capítulo 20",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-20.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 20,
+          "episodeTitle": "Capítulo 21",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-21.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 21,
+          "episodeTitle": "Capítulo 22",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-22.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 22,
+          "episodeTitle": "Capítulo 23",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia601702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-23.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 23,
+          "episodeTitle": "Capítulo 24",
+          "image": "https://bilder.fernsehserien.de/sendung/hr2/darling-in-the-franxx_226689.png",
+          "video": "https://ia801702.us.archive.org/23/items/d-4rl-1n-1n-th-3-fr-4xx-15/D4rl1n%201n%20th3%20fr4xx%20-24.ia.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
     }
 ]
