@@ -3348,188 +3348,238 @@
         }
       ]
     },
-    { 
-        "id": 5,
-        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Parte 2",
-        "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-        "play": false,
-        "episodes": [
-            { 
-                "id": 0,
-                "episodeTitle": "Capítulo 0",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/k3tmamgu15kt",
-                "play": true
-            },
-            {
-               "id": 1,
-                "episodeTitle": "Capítulo 1",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/twehuubtse69",
-                "play": true 
-            },
-            { 
-                "id": 2,
-                "episodeTitle": "Capítulo 2",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/hatga9jhvt3a",
-                "play": true
-            },
-            {
-               "id": 3,
-                "episodeTitle": "Capítulo 3",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/jh42udt33nd4",
-                "play": true 
-            },
-            { 
-                "id": 4,
-                "episodeTitle": "Capítulo 4",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/ffzwza5sci8d",
-                "play": true
-            },
-            {
-               "id": 5,
-                "episodeTitle": "Capítulo 5",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/xdwpeibcwjtj",
-                "play": true 
-            },
-            { 
-                "id": 6,
-                "episodeTitle": "Capítulo 6",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/1qewjvesuhij",
-                "play": true
-            },
-            {
-               "id": 7,
-                "episodeTitle": "Capítulo 7",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/53idtyjy2r9t",
-                "play": true 
-            },
-            { 
-                "id": 8,
-                "episodeTitle": "Capítulo 8",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/xpc6mf99977b",
-                "play": true
-            },
-            {
-               "id": 9,
-                "episodeTitle": "Capítulo 9",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/d0sxinpi24nj",
-                "play": true 
-            },
-            { 
-                "id": 10,
-                "episodeTitle": "Capítulo 10",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/spqe8gkdcrmh",
-                "play": true
-            },
-            {
-               "id": 11,
-                "episodeTitle": "Capítulo 11",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/di17abzs7oqe",
-                "play": true 
-            },
-            { 
-                "id": 12,
-                "episodeTitle": "Capítulo 12",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/mfg1unl6a5lc",
-                "play": true
-            },
-            {
-                "id": 13,
-                "episodeTitle": "Capítulo 13",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/99nrcfml1ama",
-                "play": true
-            },
-            {
-               "id": 14,
-                "episodeTitle": "Capítulo 14",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/ff0vlf1zlz83",
-                "play": true 
-            },
-            { 
-                "id": 15,
-                "episodeTitle": "Capítulo 15",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/qizr36o3mvff",
-                "play": true
-            },
-            {
-               "id": 16,
-                "episodeTitle": "Capítulo 16",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/9issdx2wgnpe",
-                "play": true 
-            },
-            { 
-                "id": 17,
-                "episodeTitle": "Capítulo 17",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon-of27wysu.xyz/e/fiftzhfkyt7o",
-                "play": true
-            },
-            {
-               "id": 18,
-                "episodeTitle": "Capítulo 18",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/q4tb0uv20omj",
-                "play": true 
-            },
-            { 
-                "id": 19,
-                "episodeTitle": "Capítulo 19",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/dtzr5o630nj3",
-                "play": true
-            },
-            {
-               "id": 20,
-                "episodeTitle": "Capítulo 20",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/6l54692uyh44",
-                "play": true 
-            },
-            { 
-                "id": 21,
-                "episodeTitle": "Capítulo 21",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/l8c4s5uv0e9u",
-                "play": true
-            },
-            { 
-                "id": 22,
-                "episodeTitle": "Capítulo 22",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/8wzy7ciatuq2",
-                "play": true
-            },
-            {
-               "id": 23,
-                "episodeTitle": "Capítulo 23",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/zypovccuur3b",
-                "play": true 
-            },
-            { 
-                "id": 24,
-                "episodeTitle": "Capítulo 24",
-                "image": "https://dw-anime.net/wp-content/uploads/2023/07/Mushoku-Tensei-S2.jpg",
-                "iframe": "https://filemoon.sx/e/cf01p0fbu75o",
-                "play": true
-            }
-        ]
+    {
+      "id": "5",
+      "title": "Mushoku Tensei Temp 2 (Español Latino)",
+      "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+      "play": false,
+      "episodes": [
+        {
+          "id": 0,
+          "episodeTitle": "Capítulo 1",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/00%20-%20Fitz%2C%20el%20guardaespaldas%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 1,
+          "episodeTitle": "Capítulo 2",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/01%20-%20El%20mago%20descorazonado%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 2,
+          "episodeTitle": "Capítulo 3",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/02%20-%20El%20bosque%20a%20medianoche%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 3,
+          "episodeTitle": "Capítulo 4",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/03%20-%20Acercamiento%20repentino%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 4,
+          "episodeTitle": "Capítulo 5",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/04%20-%20Carta%20de%20recomendaci%C3%B3n%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 5,
+          "episodeTitle": "Capítulo 6",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/05%20-%20La%20Universidad%20M%C3%A1gica%20de%20Ranoa%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 6,
+          "episodeTitle": "Capítulo 7",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/06%20-%20No%20quiero%20morir%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 7,
+          "episodeTitle": "Capítulo 8",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/07%20-%20Secuestro%20y%20confinamiento%20de%20unas%20j%C3%B3venes%20bestias%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 8,
+          "episodeTitle": "Capítulo 9",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/08%20-%20Un%20compromiso%20angustioso%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 9,
+          "episodeTitle": "Capítulo 10",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/09%20-%20La%20m%C3%A1scara%20blanca%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 10,
+          "episodeTitle": "Capítulo 11",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/10%20-%20Estos%20sentimientos%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 11,
+          "episodeTitle": "Capítulo 12",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/11%20-%20Para%20ti%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 12,
+          "episodeTitle": "Capítulo 13",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/12%20-%20Quiero%20dec%C3%ADrtelo%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 13,
+          "episodeTitle": "Capítulo 14",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/13%20-%20Mi%20hogar%20de%20ensue%C3%B1o%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 14,
+          "episodeTitle": "Capítulo 15",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/14%20-%20Banquete%20de%20boda%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 15,
+          "episodeTitle": "Capítulo 16",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/15%20-%20Lejano%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 16,
+          "episodeTitle": "Capítulo 17",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/16%20-%20Norn%20y%20Aisha%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 17,
+          "episodeTitle": "Capítulo 18",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/17%20-%20Los%20sentimientos%20de%20mi%20hermano%20mayor%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 18,
+          "episodeTitle": "Capítulo 19",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/18%20-%20Punto%20de%20inflexi%C3%B3n%203%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 19,
+          "episodeTitle": "Capítulo 20",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/19%20-%20Viaje%20des%C3%A9rtico%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 20,
+          "episodeTitle": "Capítulo 21",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/20%20-%20Entrada%20al%20laberinto%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 21,
+          "episodeTitle": "Capítulo 22",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/21%20-%20C%C3%ADrculos%20m%C3%A1gicos%20del%20sexto%20estrato%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 22,
+          "episodeTitle": "Capítulo 23",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/22%20-%20Padres%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 23,
+          "episodeTitle": "Capítulo 24",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/23%20-%20Volvamos%20a%20casa%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        },
+        {
+          "id": 24,
+          "episodeTitle": "Capítulo 25",
+          "image": "https://i.blogs.es/9c87ff/anime/500_333.webp",
+          "video": "https://ia601508.us.archive.org/18/items/22-padres-latino-dw-anime.net-720p-sd/24%20-%20Sucesi%C3%B3n%20%5BLatino%5D%20%5BDw-anime.net%5D%20%5B720p-SD%5D.mp4",
+          "play": false,
+          "introStart": 0,
+          "introEnd": 0
+        }
+      ]
     },
     { 
         "id": 6,
