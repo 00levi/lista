@@ -127,198 +127,198 @@
     },
     {
         "id": 18, 
-        "title": "telefe",
-        "image": "https://www.cablevisionhd.com/imge/telefe.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/telefe.html",
+        "title": "Enredados",
+        "image": "https://pics.filmaffinity.com/tangled-708117517-mmed.jpg",
+        "video": "https://ia903405.us.archive.org/19/items/peliculas_202102/ENREDADOS.mp4",
         "play": false
     },
     {
         "id": 19, 
-        "title": "eltrece",
-        "image": "https://www.cablevisionhd.com/imge/eltrece.png",
-        "iframe": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=eltrece-op2",
+        "title": "Valerian y la ciudad de los mil planetas",
+        "image": "https://play-lh.googleusercontent.com/ZmcdRTg3itXONmEPGcZpUHFNZGVtvIMxp1b3Y7amBzIB5b0ywM2X7Ky1xkLAeWMQRJdlAQ",
+        "video": "https://ia801801.us.archive.org/27/items/pets-united-2020-latino-1080-streaming-latino/valerian%20y%20la%20ciudad%20de%20los%20mil%20planetas.ia.mp4",
         "play": false
     },
     {
         "id": 20, 
-        "title": "TN",
-        "image": "https://play-lh.googleusercontent.com/pL331qhVv3KATHzIaVnkrQhyNRrV6YWLIzf0SctwFR8sUMY8aCYobe70OTdbQPyVkuc=w480-h960",
-        "iframe": "https://www.youtube.com/embed/live_stream?channel=UCj6PcyLvpnIRT_2W_mwa9Aw&autoplay=1",
+        "title": "Los Croods",
+        "image": "https://www.aceprensa.com/wp-content/uploads/2013/03/49519-0.jpg",
+        "video": "https://dn720708.ca.archive.org/0/items/los-cr-00ds-2013-audio-espanol/Los%20Croods%20%282013%20Audio%20Espan%CC%83ol%29.mp4",
         "play": false
     },
     {
         "id": 21, 
-        "title": "c5n",
-        "image": "https://www.minutoneuquen.com/u/fotografias/m/2021/1/23/f500x333-447140_470943_5050.jpg",
-        "iframe": "https://www.youtube.com/embed/live_stream?channel=UCFgk2Q2mVO1BklRQhSv6p0w&autoplay=1",
+        "title": "Gato Con Botas El Último Deseo",
+        "image": "https://media.acento.com.do/media/storage02/uploads/2023/04/pussinbootslastwish.webp",
+        "video": "https://dn720404.ca.archive.org/0/items/gato-con-botas_20230118/Gato%20con%20botas-%20El%20%C3%BAltimo%20deseo%20%282022%29%201080p.DUAL-LAT.CINECALIDAD.RUN.mp4",
         "play": false
     },
     {
         "id": 22,  
         "title": "Cronica",
         "image": "https://www.cronica.com.ar/img/2022/08/06/crxnica_crop1659806205713.jpg?__scale=w:1200,h:675,t:2,p:6,fpx:350,fpy:438",
-        "iframe": "https://www.youtube.com/embed/live_stream?channel=UCT7KFGv6s2a-rh2Jq8ZdM1g&autoplay=1",
+        "video": "https://www.youtube.com/embed/live_stream?channel=UCT7KFGv6s2a-rh2Jq8ZdM1g&autoplay=1",
         "play": false
     },
     {
         "id": 23, 
         "title": "nickelodeon",
         "image": "https://www.cablevisionhd.com/imge/nick.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/nick.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/nick.html",
         "play": false
     },
     {
         "id": 24, 
         "title": "Disney",
         "image": "https://www.cablevisionhd.com/imge/disneychannel.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/disneychannel.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/disneychannel.html",
         "play": false
     },
     {
         "id": 25,
         "title": "Cartoon Network",
         "image": "https://www.cablevisionhd.com/imge/cartoonnetwork.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/cartoonnetwork.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/cartoonnetwork.html",
         "play": false
     },
     {
         "id": 26,
         "title": "warner",
         "image": "https://www.cablevisionhd.com/imge/warnerbrostv.png",
-        "iframe": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=warner",
+        "video": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=warner",
         "play": false
     },
     {
         "id": 27, 
         "title": "adultswing",
         "image": "https://www.cablevisionhd.com/imge/dragonballsuper.png",
-        "iframe": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=adult-swin",
+        "video": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=adult-swin",
         "play": false
     },
     {
         "id": 28, 
         "title": "natgeo",
         "image": "https://www.cablevisionhd.com/imge/natgeo.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/natgeo.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/natgeo.html",
         "play": false
     },
     {
         "id": 29,
         "title": "History",
         "image": "https://www.cablevisionhd.com/imge/history.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/history.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/history.html",
         "play": false
     },
     {
         "id": 30, 
         "title": "history2",
         "image": "https://www.cablevisionhd.com/imge/history2.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/history2.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/history2.html",
         "play": false
     },
     {
         "id": 31, 
         "title": "cinecanal",
         "image": "https://www.cablevisionhd.com/imge/cinecanal.png",
-        "iframe": "https://teve3.mitele.uno/cv2.php?get=Q2luZWNhbmFsSEQ=&lang=1",
+        "video": "https://teve3.mitele.uno/cv2.php?get=Q2luZWNhbmFsSEQ=&lang=1",
         "play": true
     },
     {
         "id": 32, 
         "title": "cinecanal opcion 2",
         "image": "https://www.cablevisionhd.com/imge/cinecanal.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/cinecanal.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/cinecanal.html",
         "play": false
     },
     {
         "id": 33, 
         "title": "axn",
         "image": "https://www.cablevisionhd.com/imge/axn.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/axn.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/axn.html",
         "play": false
     },
     {
         "id": 34, 
         "title": "space",
         "image": "https://www.cablevisionhd.com/imge/space2.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/space.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/space.html",
         "play": false
     },
     {
         "id": 35, 
         "title": "starchannel",
         "image": "https://www.cablevisionhd.com/imge/starchannel.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/starchannel.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/starchannel.html",
         "play": false
     },
     {
         "id": 36, 
         "title": "tnt",
         "image": "https://www.cablevisionhd.com/imge/tnt.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/tnt.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/tnt.html",
         "play": false
     },
     {
         "id": 37, 
         "title": "tntseries",
         "image": "https://www.cablevisionhd.com/imge/tntseries.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/tntseries.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/tntseries.html",
         "play": false
     },
     {
         "id": 38, 
         "title": "universalchannel",
         "image": "https://www.cablevisionhd.com/imge/universalchannel.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/universalchannel.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/universalchannel.html",
         "play": false
     }, 
     {
         "id": 39, 
         "title": "cinemax",
         "image": "https://www.cablevisionhd.com/imge/cinemax.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/cinemax.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/cinemax.html",
         "play": false
     },
     {
         "id": 40, 
         "title": "syfy",
         "image": "https://www.cablevisionhd.com/imge/syfy.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/syfy.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/syfy.html",
         "play": false
     },
     {
         "id": 41, 
         "title": "fx",
         "image": "https://www.cablevisionhd.com/imge/fx.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/fx.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/fx.html",
         "play": false
     },
     {
         "id": 42, 
         "title": "amc",
         "image": "https://www.cablevisionhd.com/imge/amc.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/amc.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/amc.html",
         "play": false
     },
      {
         "id": 43, 
         "title": "studiouniversal",
         "image": "https://www.cablevisionhd.com/imge/studiouniversal.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/studiouniversal.html",
+        "video": "https://embed.sdfgnksbounce.com/embed2/studiouniversal.html",
         "play": false
     },
     {
         "id": 44, 
         "title": "TYC SPORTS",
         "image": "https://www.cablevisionhd.com/imge/tycsports.png",
-        "iframe": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=tyc-op3",
+        "video": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=tyc-op3",
         "play": false
     },
     {
         "id": 45, 
         "title": "TNT SPORTS",
         "image": "https://www.cablevisionhd.com/imge/tntsports.png",
-        "iframe": "https://la10hd.com/vivo/canales.php?stream=tntsports",
+        "video": "https://la10hd.com/vivo/canales.php?stream=tntsports",
         "play": true
     }
 ]
