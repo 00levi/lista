@@ -113,16 +113,16 @@
     },
     {
         "id": 16, 
-        "title": "tv publica",
-        "image": "https://www.cablevisionhd.com/imge/tvpublica.png",
-        "iframe": "https://embed.sdfgnksbounce.com/embed2/tvpublica.html",
+        "title": "Ace Ventura",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjA5Y2VjNjItZThlMi00OTgwLTgxODctM2E3MmM5ZmJjNDBiXkEyXkFqcGc@._V1_.jpg",
+        "video": "https://dn721609.ca.archive.org/0/items/0076-ace-ventura-1-1994-720p-d-sspa-v/0076-Ace%20Ventura%201%20%281994%29%20720p%20D%20Sspa%20v.mp4",
         "play": false
     },
     {
         "id": 17, 
-        "title": "nueve",
-        "image": "https://www.televisionlibrehd.net/images/elnueve.png?",
-        "iframe": "https://teve3.mitele.uno/cv2.php?get=Q2FuYWw5&lang=1",
+        "title": "Ace Ventura 2",
+        "image": "https://ntvb.tmsimg.com/assets/p17379_v_h8_bb.jpg?w=960&h=540",
+        "video": "https://dn721609.ca.archive.org/0/items/0076-ace-ventura-1-1994-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mp4",
         "play": true
     },
     {
