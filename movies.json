@@ -155,58 +155,58 @@
     },
     {
         "id": 22,  
-        "title": "Cronica",
-        "image": "https://www.cronica.com.ar/img/2022/08/06/crxnica_crop1659806205713.jpg?__scale=w:1200,h:675,t:2,p:6,fpx:350,fpy:438",
-        "video": "https://www.youtube.com/embed/live_stream?channel=UCT7KFGv6s2a-rh2Jq8ZdM1g&autoplay=1",
+        "title": "Donde Estan Las Rubias?",
+        "image": "https://www.elespectador.com/resizer/v2/R4ASKGWWJJCTDHJSXQVZHVCL6E.jpg?auth=b57b38bd69214540cbd09ac640d3a2f93e1790f35e4861bf606d2c5229a96f49&width=920&height=613&smart=true&quality=60",
+        "video": "https://dn721602.ca.archive.org/0/items/inseparables-2016/097653%C2%BFY%20Donde%20Estan%20Las%20Rubias99856.mp4",
         "play": false
     },
     {
         "id": 23, 
-        "title": "nickelodeon",
-        "image": "https://www.cablevisionhd.com/imge/nick.png",
-        "video": "https://embed.sdfgnksbounce.com/embed2/nick.html",
+        "title": "Escuadron Suicida",
+        "image": "https://static.wikia.nocookie.net/doblaje/images/1/1c/Escuadron_Suicida_Poster_Latino.jpg/revision/latest/thumbnail/width/360/height/360?cb=20160719012525&path-prefix=es",
+        "video": "https://ia601801.us.archive.org/27/items/pets-united-2020-latino-1080-streaming-latino/video_2019-10-12_10-06-19.ia.mp4",
         "play": false
     },
     {
         "id": 24, 
-        "title": "Disney",
-        "image": "https://www.cablevisionhd.com/imge/disneychannel.png",
-        "video": "https://embed.sdfgnksbounce.com/embed2/disneychannel.html",
+        "title": "mujer maravilla",
+        "image": "https://static.wikia.nocookie.net/dcextendeduniverse/images/6/6a/Wonder_Woman_-_Poster_Final.png/revision/latest?cb=20170504191548&path-prefix=es",
+        "video": "https://ia801801.us.archive.org/27/items/pets-united-2020-latino-1080-streaming-latino/mujer%20maravilla.ia.mp4",
         "play": false
     },
     {
         "id": 25,
-        "title": "Cartoon Network",
-        "image": "https://www.cablevisionhd.com/imge/cartoonnetwork.png",
-        "video": "https://embed.sdfgnksbounce.com/embed2/cartoonnetwork.html",
+        "title": "hotel transylvania 1",
+        "image": "https://serueda.wordpress.com/wp-content/uploads/2015/11/hotel-transylvaniaprueba.jpg",
+        "video": "https://ia801801.us.archive.org/27/items/pets-united-2020-latino-1080-streaming-latino/hotel%20tras%201.ia.mp4",
         "play": false
     },
     {
         "id": 26,
-        "title": "warner",
-        "image": "https://www.cablevisionhd.com/imge/warnerbrostv.png",
-        "video": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=warner",
+        "title": "hotel transylvania 2",
+        "image": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/hotel-transilvania-2/hotel-transilvania-2-regreso-al-hotel-de-dracula/78149917-1-esl-ES/Hotel-Transilvania-2-Regreso-al-hotel-de-Dracula.jpg?crop=0.9618055555555556xw:1xh;center,top&resize=1200:*",
+        "video": "https://dn720500.ca.archive.org/0/items/pets-united-2020-latino-1080-streaming-latino/hotel%20transilvania%202.ia.mp4",
         "play": false
     },
     {
         "id": 27, 
-        "title": "adultswing",
-        "image": "https://www.cablevisionhd.com/imge/dragonballsuper.png",
-        "video": "https://www.tvlibrehd.com/en-vivo/player/embed.php?r=adult-swin",
+        "title": "hotel transylvania 3",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/2c/f9/35/2cf935f3-356d-eb78-4490-876508b7eef3/contsched.begjeoms.png/1200x675.jpg",
+        "video": "https://dn720500.ca.archive.org/0/items/pets-united-2020-latino-1080-streaming-latino/hotel%20tras%203.ia.mp4",
         "play": false
     },
     {
         "id": 28, 
-        "title": "natgeo",
-        "image": "https://www.cablevisionhd.com/imge/natgeo.png",
-        "video": "https://embed.sdfgnksbounce.com/embed2/natgeo.html",
+        "title": "Mi Villano Favorito",
+        "image": "https://static.wikia.nocookie.net/doblaje/images/b/b2/Mi-villano-favorito-poster.jpg/revision/latest?cb=20240629031636&path-prefix=es",
+        "video": "https://ia801605.us.archive.org/33/items/los-cr-00ds-2013-audio-espanol/Mi%20villano%20favorito%201.ia.mp4",
         "play": false
     },
     {
         "id": 29,
-        "title": "History",
-        "image": "https://www.cablevisionhd.com/imge/history.png",
-        "video": "https://embed.sdfgnksbounce.com/embed2/history.html",
+        "title": "Los Simpson La Pelicula",
+        "image": "https://static.wikia.nocookie.net/lossimpson/images/a/a0/Simpsons_final_poster.png/revision/latest?cb=20080229194604&path-prefix=es",
+        "video": "https://ia800404.us.archive.org/18/items/kratosloquendero/Los%20Simpson%20-%20La%20pelicula.mp4",
         "play": false
     },
     {
