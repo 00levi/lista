@@ -4841,118 +4841,91 @@
       ]
     },
     {
-        "id": 7,
-      "title": "Record of Ragnarok Temporada 1 (Español Latino)",
-      "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
+      "id": "7",
+      "title": "League of Legends",
+      "image": "https://www.infobae.com/resizer/v2/6J7LSLIP2VGFVIY4ZINY3D6PBY.jpg?auth=5841088aa46abee3d952aee38bc39e88759f807bdf73c549820c580f6d784e78&smart=true&width=350&height=197&quality=85",
       "play": false,
       "episodes": [
         {
           "id": 0,
-          "episodeTitle": "Capítulo 1",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://dn720403.ca.archive.org/0/items/shuumatsu-01.lat.-anime-yt.es/Shuumatsu-01.lat.AnimeYT.es.mp4",
+          "episodeTitle": "Capitulo 01",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-01_000150.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-01.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 1,
-          "episodeTitle": "Capítulo 2",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://dn721906.ca.archive.org/0/items/shuumatsu-02.lat.-anime-yt.es/Shuumatsu-02.lat.AnimeYT.es.mp4",
+          "episodeTitle": "Capitulo 02",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-02_000145.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-02.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 2,
-          "episodeTitle": "Capítulo 3",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia800101.us.archive.org/0/items/shuumatsu-03.lat.-anime-yt.es/Shuumatsu-03.lat.AnimeYT.es.mp4",
+          "episodeTitle": "Capitulo 03",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-03_000155.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-03.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 3,
-          "episodeTitle": "Capítulo 4",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/4_Shuumatsu-04.lat.mp4",
+          "episodeTitle": "Capitulo 04",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-04_000145.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-04.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 4,
-          "episodeTitle": "Capítulo 5",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/5_Shuumatsu-05.lat.mp4",
+          "episodeTitle": "Capitulo 05",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-05_000145.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-05.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 5,
-          "episodeTitle": "Capítulo 6",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/6_Shuumatsu-06.lat.mp4",
+          "episodeTitle": "Capitulo 06",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-06_000150.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-06.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 6,
-          "episodeTitle": "Capítulo 7",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/7_Shuumatsu-07.lat.mp4",
+          "episodeTitle": "Capitulo 07",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-07_000140.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-07.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 7,
-          "episodeTitle": "Capítulo 8",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/8_Shuumatsu-08.lat.mp4",
+          "episodeTitle": "Capitulo 08",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-08_000146.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-08.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         },
         {
           "id": 8,
-          "episodeTitle": "Capítulo 9",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/9_Shuumatsu-09.lat.mp4",
+          "episodeTitle": "Capitulo 09",
+          "image": "https://archive.org/download/arcane-league-of-legends/arcane-league-of-legends.thumbs%2FArcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-09_000144.jpg",
+          "video": "https://archive.org/download/arcane-league-of-legends/Arcane%20-%20League%20of%20Legends%2F%28Videplaytv%29%20A-LoL-09.mp4",
           "play": false,
-          "introStart": 0,
-          "introEnd": 90
-        },
-        {
-          "id": 9,
-          "episodeTitle": "Capítulo 10",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/10_Shuumatsu-10.lat.mp4",
-          "play": false,
-          "introStart": 0,
-          "introEnd": 90
-        },
-        {
-          "id": 10,
-          "episodeTitle": "Capítulo 11",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia600709.us.archive.org/14/items/4-shuumatsu-04.lat/11_Shuumatsu-11.lat.mp4",
-          "play": false,
-          "introStart": 0,
-          "introEnd": 90
-        },
-        {
-          "id": 11,
-          "episodeTitle": "Capítulo 12",
-          "image": "https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2021/06/Record-of-Ragnarok1.jpg?resize=860%2C516&ssl=1",
-          "video": "https://ia800709.us.archive.org/14/items/4-shuumatsu-04.lat/12_Shuumatsu-12.lat.mp4",
-          "play": false,
-          "introStart": 0,
-          "introEnd": 90
+          "introStart": null,
+          "introEnd": null
         }
       ]
     },
