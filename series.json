@@ -6616,7 +6616,7 @@
                 "introEnd": 195
             },
             {
-               "id": 1,
+                "id": 1,
                 "episodeTitle": "Capítulo 2",
                 "image": "https://tierragamer.com/wp-content/uploads/2021/11/image_2021-11-04_101339.jpg",
                 "video": "https://dn720407.ca.archive.org/0/items/rOfR6G73_02/rOfR6G73_02.mp4",
@@ -6709,7 +6709,7 @@
     },
     { 
         "id": 12,
-        "title": "Konosuba temp 2 latino",
+        "title": "Konosuba S2 latino",
         "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
         "play": true,
         "episodes": [
@@ -6717,16 +6717,16 @@
                 "id": 0,
                 "episodeTitle": "Capítulo 1",
                 "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
-                "video": "https://ia601300.us.archive.org/34/items/anime-online-ninja-konosuba-movie-bd-latino/%5BAnimeOnlineNinja%5D%20Konosuba%20S2%20Latino%20BD%2001.mp4",
+                "video": "https://ia800504.us.archive.org/17/items/01fyh-uwdc/01fyhUWDC.mp4",
                 "play": false,
                 "introStart": 70,
                 "introEnd": 155
             },
             {
-               "id": 1,
+              "id": 1,
                 "episodeTitle": "Capítulo 2",
                 "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
-                "video": "https://ia801300.us.archive.org/34/items/anime-online-ninja-konosuba-movie-bd-latino/%5BAnimeOnlineNinja%5D%20Konosuba%20S2%20Latino%20BD%2002.mp4",
+                "video": "https://ia600504.us.archive.org/17/items/01fyh-uwdc/02G8yHWCg.mp4",
                 "play": false,
                 "introStart": 150,
                 "introEnd": 240
@@ -6735,7 +6735,7 @@
                 "id": 2,
                 "episodeTitle": "Capítulo 3",
                 "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
-                "video": "https://ia801300.us.archive.org/34/items/anime-online-ninja-konosuba-movie-bd-latino/%5BAnimeOnlineNinja%5D%20Konosuba%20S2%20Latino%20BD%2003.mp4",
+                "video": "https://ia800504.us.archive.org/17/items/01fyh-uwdc/03F3v9T4o.mp4",
                 "play": false,
                 "introStart": 120,
                 "introEnd": 205
@@ -6762,7 +6762,7 @@
                 "id": 5,
                 "episodeTitle": "Capítulo 6",
                 "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
-                "video": "https://ia801300.us.archive.org/34/items/anime-online-ninja-konosuba-movie-bd-latino/%5BAnimeOnlineNinja%5D%20Konosuba%20S2%20Latino%20BD%2006.mp4",
+                "video": "https://ia600504.us.archive.org/17/items/01fyh-uwdc/062155z50.mp4",
                 "play": false,
                 "introStart": 110,
                 "introEnd": 195
@@ -6807,7 +6807,7 @@
                 "id": 10,
                 "episodeTitle": "ova",
                 "image": "https://ramenparados.com/wp-content/uploads/2018/10/KonoSuba-destacado-1000x600.jpg",
-                "video": "https://ia801300.us.archive.org/34/items/anime-online-ninja-konosuba-movie-bd-latino/%5BAnimeOnlineNinja%5D%20Konosuba%20S2%20Latino%20BD%20OVA.mp4",
+                "video": "https://ia800504.us.archive.org/17/items/01fyh-uwdc/ovajU7K8l.mp4",
                 "play": false,
                 "introStart": 60,
                 "introEnd": 145
