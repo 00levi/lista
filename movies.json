@@ -36,16 +36,16 @@
     },
     {
         "id": 5, 
-        "title": "Star Wars Episodio 2",
-        "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/4fc46191-e131-4688-97bc-dc204f157c67/compose?aspectRatio=1.78&format=webp&width=1200",
-        "video": "https://ia800908.us.archive.org/17/items/3tr-3ch-4str-1/3tr3ch4sdu0.mp4",
+        "title": "Harry Potter y la piedra filosofal",
+        "image": "https://i0.wp.com/elgeneracionalpost.com/wp-content/uploads/2021/11/Harry-Potter.jpeg?fit=1250%2C735&ssl=1",
+        "video": "https://dn720302.ca.archive.org/0/items/potter.-01/POTTER.01.mp4",
         "play": false
     },
     {
         "id": 6, 
-        "title": "Star Wars Episodio 3",
-        "image": "https://oem.com.mx/elsoldepuebla/img/22637797/1744231175/BASE_LANDSCAPE/480/image.webp",
-        "video": "https://ia800908.us.archive.org/17/items/3tr-3ch-4str-1/3tr3ch4str1.ia.mp4",
+        "title": "Harry Potter y la cámara secreta",
+        "image": "https://lumiererosario.gob.ar/web/wp-content/uploads/2022/12/hayy_potter-y-la-camara-secreta.jpg",
+        "video": "https://ia902302.us.archive.org/8/items/potter.-02/POTTER.02.mp4",
         "play": false
     },
     {
@@ -218,16 +218,16 @@
     },
     {
         "id": 31, 
-        "title": "cinecanal",
-        "image": "https://www.cablevisionhd.com/imge/cinecanal.png",
-        "video": "https://teve3.mitele.uno/cv2.php?get=Q2luZWNhbmFsSEQ=&lang=1",
+        "title": "Harry Potter y el prisionero de Azkaban",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/73553a76-1658-45f6-9e26-1b9c4443b0d6/ff116fd4-f147-4179-9214-407554a51409?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+        "video": "https://archive.org/download/potter.-03/POTTER.03.mp4",
         "play": true
     },
     {
         "id": 32, 
-        "title": "cinecanal opcion 2",
-        "image": "https://www.cablevisionhd.com/imge/cinecanal.png",
-        "video": "https://embed.sdfgnksbounce.com/embed2/cinecanal.html",
+        "title": "Harry Potter y el cáliz de fuego",
+        "image": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/d2e9ff29-e71d-4eae-9a4b-7cd0e00236ea/b8586bff-07e9-468c-87fb-5212ce1e374b?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+        "video": "https://ia804500.us.archive.org/13/items/potter.-04/POTTER.04.mp4",
         "play": false
     },
     {
